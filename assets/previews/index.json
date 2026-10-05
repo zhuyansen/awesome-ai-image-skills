@@ -1,0 +1,32 @@
+{
+ "JuneYaooo/gpt-image2-ppt-skills": {
+  "repo": "JuneYaooo/gpt-image2-ppt-skills",
+  "url": "https://raw.githubusercontent.com/JuneYaooo/gpt-image2-ppt-skills/HEAD/docs/assets/template-demo-output.jpg",
+  "alt": "generated output",
+  "score": 1.7,
+  "type": "image/jpeg",
+  "bytes": 376410,
+  "file": "JuneYaooo__gpt-image2-ppt-skills.jpg",
+  "still": "JuneYaooo__gpt-image2-ppt-skills.jpg"
+ },
+ "ningzimu/codex-ppt-skill": {
+  "repo": "ningzimu/codex-ppt-skill",
+  "url": "https://raw.githubusercontent.com/ningzimu/codex-ppt-skill/HEAD/assets/slides_example.png",
+  "alt": "生成 PPT 效果示例",
+  "score": 1.6,
+  "type": "image/png",
+  "bytes": 1879778,
+  "file": "ningzimu__codex-ppt-skill.jpg",
+  "still": "ningzimu__codex-ppt-skill.jpg"
+ },
+ "wuyoscar/GPT-Image2-Skill": {
+  "repo": "wuyoscar/GPT-Image2-Skill",
+  "url": "https://raw.githubusercontent.com/wuyoscar/GPT-Image2-Skill/HEAD/docs/illustration/get-prompt-from-image-result.png",
+  "alt": "ImageGen result generated from the reverse-engineered prompt",
+  "score": 1.55,
+  "type": "image/png",
+  "bytes": 2593838,
+  "file": "wuyoscar__GPT-Image2-Skill.jpg",
+  "still": "wuyoscar__GPT-Image2-Skill.jpg"
+ }
+}
