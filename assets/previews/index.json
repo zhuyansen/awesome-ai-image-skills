@@ -1,4 +1,14 @@
 {
+ "JuneLearn/dsh-image2-draw": {
+  "repo": "JuneLearn/dsh-image2-draw",
+  "url": "https://raw.githubusercontent.com/JuneLearn/dsh-image2-draw/HEAD/assets/image2-result-card.png",
+  "alt": "Image2 in-conversation result",
+  "score": 2.0,
+  "type": "image/png",
+  "bytes": 361878,
+  "file": "JuneLearn__dsh-image2-draw.jpg",
+  "still": "JuneLearn__dsh-image2-draw.jpg"
+ },
  "JuneYaooo/gpt-image2-ppt-skills": {
   "repo": "JuneYaooo/gpt-image2-ppt-skills",
   "url": "https://raw.githubusercontent.com/JuneYaooo/gpt-image2-ppt-skills/HEAD/docs/assets/template-demo-output.jpg",
@@ -8,6 +18,36 @@
   "bytes": 376410,
   "file": "JuneYaooo__gpt-image2-ppt-skills.jpg",
   "still": "JuneYaooo__gpt-image2-ppt-skills.jpg"
+ },
+ "KDB-Wind/gpt-image-2-studio": {
+  "repo": "KDB-Wind/gpt-image-2-studio",
+  "url": "https://raw.githubusercontent.com/KDB-Wind/gpt-image-2-studio/HEAD/docs/assets/app-preview.png",
+  "alt": "GPT-Image-2 Studio 界面预览",
+  "score": 1.8,
+  "type": "image/png",
+  "bytes": 367558,
+  "file": "KDB-Wind__gpt-image-2-studio.jpg",
+  "still": "KDB-Wind__gpt-image-2-studio.jpg"
+ },
+ "PUSHINGSQUARES/pushing-creation": {
+  "repo": "PUSHINGSQUARES/pushing-creation",
+  "url": "https://raw.githubusercontent.com/PUSHINGSQUARES/pushing-creation/HEAD/docs/hero.png",
+  "alt": "Sage-green Lamborghini Huracán Performante on a wet British B-road, late afterno",
+  "score": -2.5,
+  "type": "image/png",
+  "bytes": 2192295,
+  "file": "PUSHINGSQUARES__pushing-creation.jpg",
+  "still": "PUSHINGSQUARES__pushing-creation.jpg"
+ },
+ "Raines-01/ai-image-studio": {
+  "repo": "Raines-01/ai-image-studio",
+  "url": "https://raw.githubusercontent.com/Raines-01/ai-image-studio/HEAD/static/demo.png?v=2",
+  "alt": "AI Image Studio 界面截图",
+  "score": 1.95,
+  "type": "image/png",
+  "bytes": 2063518,
+  "file": "Raines-01__ai-image-studio.jpg",
+  "still": "Raines-01__ai-image-studio.jpg"
  },
  "ningzimu/codex-ppt-skill": {
   "repo": "ningzimu/codex-ppt-skill",
