@@ -1,4 +1,14 @@
 {
+ "AtlasCloudAI/cli": {
+  "repo": "AtlasCloudAI/cli",
+  "url": "https://raw.githubusercontent.com/AtlasCloudAI/cli/main/demo.gif",
+  "alt": "A real Atlas CLI run: estimate cost, resume a product image task, and save the f",
+  "score": 4.75,
+  "type": "image/gif",
+  "bytes": 132285,
+  "file": "AtlasCloudAI__cli.gif",
+  "still": "AtlasCloudAI__cli.jpg"
+ },
  "JuneLearn/dsh-image2-draw": {
   "repo": "JuneLearn/dsh-image2-draw",
   "url": "https://raw.githubusercontent.com/JuneLearn/dsh-image2-draw/HEAD/assets/image2-result-card.png",
@@ -48,6 +58,16 @@
   "bytes": 2063518,
   "file": "Raines-01__ai-image-studio.jpg",
   "still": "Raines-01__ai-image-studio.jpg"
+ },
+ "frannkurt/nano-banana-mcp": {
+  "repo": "frannkurt/nano-banana-mcp",
+  "url": "https://raw.githubusercontent.com/frannkurt/nano-banana-mcp/HEAD/docs/size-1200x630.jpg",
+  "alt": "",
+  "score": -0.3,
+  "type": "image/jpeg",
+  "bytes": 138083,
+  "file": "frannkurt__nano-banana-mcp.jpg",
+  "still": "frannkurt__nano-banana-mcp.jpg"
  },
  "ningzimu/codex-ppt-skill": {
   "repo": "ningzimu/codex-ppt-skill",

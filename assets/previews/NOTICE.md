@@ -6,6 +6,8 @@ authors and stay under the license of the project they come from. To have one re
 
 | File | Project | License | Original |
 |---|---|---|---|
+| `AtlasCloudAI__cli.gif` | [AtlasCloudAI/cli](https://github.com/AtlasCloudAI/cli) | MIT | [source](https://raw.githubusercontent.com/AtlasCloudAI/cli/main/demo.gif) |
+| `frannkurt__nano-banana-mcp.jpg` | [frannkurt/nano-banana-mcp](https://github.com/frannkurt/nano-banana-mcp) | Apache-2.0 | [source](https://raw.githubusercontent.com/frannkurt/nano-banana-mcp/HEAD/docs/size-1200x630.jpg) |
 | `JuneLearn__dsh-image2-draw.jpg` | [JuneLearn/dsh-image2-draw](https://github.com/JuneLearn/dsh-image2-draw) | MIT | [source](https://raw.githubusercontent.com/JuneLearn/dsh-image2-draw/HEAD/assets/image2-result-card.png) |
 | `JuneYaooo__gpt-image2-ppt-skills.jpg` | [JuneYaooo/gpt-image2-ppt-skills](https://github.com/JuneYaooo/gpt-image2-ppt-skills) | Apache-2.0 | [source](https://raw.githubusercontent.com/JuneYaooo/gpt-image2-ppt-skills/HEAD/docs/assets/template-demo-output.jpg) |
 | `KDB-Wind__gpt-image-2-studio.jpg` | [KDB-Wind/gpt-image-2-studio](https://github.com/KDB-Wind/gpt-image-2-studio) | MIT | [source](https://raw.githubusercontent.com/KDB-Wind/gpt-image-2-studio/HEAD/docs/assets/app-preview.png) |
