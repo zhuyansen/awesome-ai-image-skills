@@ -59,6 +59,16 @@
   "file": "Raines-01__ai-image-studio.jpg",
   "still": "Raines-01__ai-image-studio.jpg"
  },
+ "ShalomObongo/codex-imagegen-mcp": {
+  "repo": "ShalomObongo/codex-imagegen-mcp",
+  "url": "https://raw.githubusercontent.com/ShalomObongo/codex-imagegen-mcp/HEAD/docs/assets/examples/aspect-ratios.jpg",
+  "alt": "The same travel-poster prompt of a train crossing a trestle bridge, generated at",
+  "score": 1.3,
+  "type": "image/jpeg",
+  "bytes": 196893,
+  "file": "ShalomObongo__codex-imagegen-mcp.jpg",
+  "still": "ShalomObongo__codex-imagegen-mcp.jpg"
+ },
  "frannkurt/nano-banana-mcp": {
   "repo": "frannkurt/nano-banana-mcp",
   "url": "https://raw.githubusercontent.com/frannkurt/nano-banana-mcp/HEAD/docs/size-1200x630.jpg",
