@@ -6,6 +6,7 @@ authors and stay under the license of the project they come from. To have one re
 
 | File | Project | License | Original |
 |---|---|---|---|
+| `Arekejoker__qwen21-nsfw-pose-skill.jpg` | [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) | Apache-2.0 | [source](https://raw.githubusercontent.com/Arekejoker/qwen21-nsfw-pose-skill/HEAD/references/pose_examples/01_seaside.png) |
 | `AtlasCloudAI__cli.gif` | [AtlasCloudAI/cli](https://github.com/AtlasCloudAI/cli) | MIT | [source](https://raw.githubusercontent.com/AtlasCloudAI/cli/main/demo.gif) |
 | `frannkurt__nano-banana-mcp.jpg` | [frannkurt/nano-banana-mcp](https://github.com/frannkurt/nano-banana-mcp) | Apache-2.0 | [source](https://raw.githubusercontent.com/frannkurt/nano-banana-mcp/HEAD/docs/size-1200x630.jpg) |
 | `JuneLearn__dsh-image2-draw.jpg` | [JuneLearn/dsh-image2-draw](https://github.com/JuneLearn/dsh-image2-draw) | MIT | [source](https://raw.githubusercontent.com/JuneLearn/dsh-image2-draw/HEAD/assets/image2-result-card.png) |

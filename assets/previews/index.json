@@ -1,4 +1,14 @@
 {
+ "Arekejoker/qwen21-nsfw-pose-skill": {
+  "repo": "Arekejoker/qwen21-nsfw-pose-skill",
+  "url": "https://raw.githubusercontent.com/Arekejoker/qwen21-nsfw-pose-skill/HEAD/references/pose_examples/01_seaside.png",
+  "alt": "",
+  "score": -0.05,
+  "type": "image/png",
+  "bytes": 3424962,
+  "file": "Arekejoker__qwen21-nsfw-pose-skill.jpg",
+  "still": "Arekejoker__qwen21-nsfw-pose-skill.jpg"
+ },
  "AtlasCloudAI/cli": {
   "repo": "AtlasCloudAI/cli",
   "url": "https://raw.githubusercontent.com/AtlasCloudAI/cli/main/demo.gif",
