@@ -99,6 +99,16 @@
   "file": "ningzimu__codex-ppt-skill.jpg",
   "still": "ningzimu__codex-ppt-skill.jpg"
  },
+ "veryCoolTimo/imagegen-skills": {
+  "repo": "veryCoolTimo/imagegen-skills",
+  "url": "https://raw.githubusercontent.com/veryCoolTimo/imagegen-skills/HEAD/assets/banner.webp",
+  "alt": "image-prompt banner",
+  "score": -2.5,
+  "type": "image/webp",
+  "bytes": 155292,
+  "file": "veryCoolTimo__imagegen-skills.jpg",
+  "still": "veryCoolTimo__imagegen-skills.jpg"
+ },
  "wuyoscar/GPT-Image2-Skill": {
   "repo": "wuyoscar/GPT-Image2-Skill",
   "url": "https://raw.githubusercontent.com/wuyoscar/GPT-Image2-Skill/HEAD/docs/illustration/get-prompt-from-image-result.png",
