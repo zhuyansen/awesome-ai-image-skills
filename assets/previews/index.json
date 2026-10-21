@@ -99,6 +99,16 @@
   "file": "ningzimu__codex-ppt-skill.jpg",
   "still": "ningzimu__codex-ppt-skill.jpg"
  },
+ "sammyteng/illustration-studio": {
+  "repo": "sammyteng/illustration-studio",
+  "url": "https://raw.githubusercontent.com/sammyteng/illustration-studio/HEAD/examples/airy-lifestyle-linedraw.png",
+  "alt": "",
+  "score": 1.7,
+  "type": "image/png",
+  "bytes": 2931966,
+  "file": "sammyteng__illustration-studio.jpg",
+  "still": "sammyteng__illustration-studio.jpg"
+ },
  "veryCoolTimo/imagegen-skills": {
   "repo": "veryCoolTimo/imagegen-skills",
   "url": "https://raw.githubusercontent.com/veryCoolTimo/imagegen-skills/HEAD/assets/banner.webp",
