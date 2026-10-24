@@ -6,6 +6,7 @@ authors and stay under the license of the project they come from. To have one re
 
 | File | Project | License | Original |
 |---|---|---|---|
+| `actionow-ai__c2c_img.jpg` | [actionow-ai/c2c_img](https://github.com/actionow-ai/c2c_img) | MIT | [source](https://raw.githubusercontent.com/actionow-ai/c2c_img/HEAD/docs/images/poster-zh.jpg) |
 | `Arekejoker__qwen21-nsfw-pose-skill.jpg` | [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) | Apache-2.0 | [source](https://raw.githubusercontent.com/Arekejoker/qwen21-nsfw-pose-skill/HEAD/references/pose_examples/01_seaside.png) |
 | `AtlasCloudAI__cli.gif` | [AtlasCloudAI/cli](https://github.com/AtlasCloudAI/cli) | MIT | [source](https://raw.githubusercontent.com/AtlasCloudAI/cli/main/demo.gif) |
 | `frannkurt__nano-banana-mcp.jpg` | [frannkurt/nano-banana-mcp](https://github.com/frannkurt/nano-banana-mcp) | Apache-2.0 | [source](https://raw.githubusercontent.com/frannkurt/nano-banana-mcp/HEAD/docs/size-1200x630.jpg) |
@@ -19,3 +20,4 @@ authors and stay under the license of the project they come from. To have one re
 | `ShalomObongo__codex-imagegen-mcp.jpg` | [ShalomObongo/codex-imagegen-mcp](https://github.com/ShalomObongo/codex-imagegen-mcp) | Apache-2.0 | [source](https://raw.githubusercontent.com/ShalomObongo/codex-imagegen-mcp/HEAD/docs/assets/examples/aspect-ratios.jpg) |
 | `veryCoolTimo__imagegen-skills.jpg` | [veryCoolTimo/imagegen-skills](https://github.com/veryCoolTimo/imagegen-skills) | MIT | [source](https://raw.githubusercontent.com/veryCoolTimo/imagegen-skills/HEAD/assets/banner.webp) |
 | `wuyoscar__GPT-Image2-Skill.jpg` | [wuyoscar/GPT-Image2-Skill](https://github.com/wuyoscar/GPT-Image2-Skill) | MIT | [source](https://raw.githubusercontent.com/wuyoscar/GPT-Image2-Skill/HEAD/docs/illustration/get-prompt-from-image-result.png) |
+| `ybuild-ai__ai-game-art-pipeline-skill.jpg` | [ybuild-ai/ai-game-art-pipeline-skill](https://github.com/ybuild-ai/ai-game-art-pipeline-skill) | MIT | [source](https://raw.githubusercontent.com/ybuild-ai/ai-game-art-pipeline-skill/HEAD/media/seedance-awakening-frames.jpg) |

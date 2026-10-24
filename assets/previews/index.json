@@ -79,6 +79,16 @@
   "file": "ShalomObongo__codex-imagegen-mcp.jpg",
   "still": "ShalomObongo__codex-imagegen-mcp.jpg"
  },
+ "actionow-ai/c2c_img": {
+  "repo": "actionow-ai/c2c_img",
+  "url": "https://raw.githubusercontent.com/actionow-ai/c2c_img/HEAD/docs/images/poster-zh.jpg",
+  "alt": "poster",
+  "score": 2.0,
+  "type": "image/jpeg",
+  "bytes": 110671,
+  "file": "actionow-ai__c2c_img.jpg",
+  "still": "actionow-ai__c2c_img.jpg"
+ },
  "frannkurt/nano-banana-mcp": {
   "repo": "frannkurt/nano-banana-mcp",
   "url": "https://raw.githubusercontent.com/frannkurt/nano-banana-mcp/HEAD/docs/size-1200x630.jpg",
@@ -128,5 +138,15 @@
   "bytes": 2593838,
   "file": "wuyoscar__GPT-Image2-Skill.jpg",
   "still": "wuyoscar__GPT-Image2-Skill.jpg"
+ },
+ "ybuild-ai/ai-game-art-pipeline-skill": {
+  "repo": "ybuild-ai/ai-game-art-pipeline-skill",
+  "url": "https://raw.githubusercontent.com/ybuild-ai/ai-game-art-pipeline-skill/HEAD/media/seedance-awakening-frames.jpg",
+  "alt": "Seedance awakening frames",
+  "score": 1.65,
+  "type": "image/jpeg",
+  "bytes": 246001,
+  "file": "ybuild-ai__ai-game-art-pipeline-skill.jpg",
+  "still": "ybuild-ai__ai-game-art-pipeline-skill.jpg"
  }
 }
