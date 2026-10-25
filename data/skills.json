@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24",
+ "generated": "2026-10-25",
  "source": "https://agentskillshub.top/best/image-generation/",
  "kinds": [
   {
@@ -43,7 +43,7 @@
   {
    "repo_full_name": "llmsresearch/paperbanana",
    "path": null,
-   "stars": 2416,
+   "stars": 2418,
    "description": "Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, diagrams, and research visuals, expanded to new domains like slide generation.",
    "kind": "mcp",
    "security_grade": "safe",
@@ -63,7 +63,7 @@
   {
    "repo_full_name": "MiniMax-AI/MiniMax-MCP",
    "path": null,
-   "stars": 1590,
+   "stars": 1591,
    "description": "Official MiniMax Model Context Protocol (MCP) server that enables interaction with powerful Text to Speech, image generation and video generation APIs.",
    "kind": "mcp",
    "security_grade": "safe",
@@ -73,7 +73,7 @@
   {
    "repo_full_name": "scenario-labs/skills",
    "path": null,
-   "stars": 1114,
+   "stars": 1131,
    "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
    "kind": "mcp",
    "security_grade": "safe",
@@ -83,7 +83,7 @@
   {
    "repo_full_name": "lidge-ai/ima2-gen",
    "path": null,
-   "stars": 884,
+   "stars": 886,
    "description": "Local-first visual generation runtime and studio for people and coding agents, with reproducible image and video workflows across multiple providers.",
    "kind": "mcp",
    "security_grade": "safe",
@@ -93,7 +93,7 @@
   {
    "repo_full_name": "artokun/comfyui-mcp",
    "path": null,
-   "stars": 861,
+   "stars": 862,
    "description": "Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs workflows, and edits your live graph in natural language on ANY LLM (Claude, ChatGPT, Gemini, offline Ollama, or any hosted model). 178 tools, 36 AI skills, 55 installer packs. Local, LAN, VPS, or Comfy Cloud.",
    "kind": "mcp",
    "security_grade": "safe",
@@ -103,7 +103,7 @@
   {
    "repo_full_name": "smixs/visual-skills",
    "path": null,
-   "stars": 568,
+   "stars": 572,
    "description": "AI film director skills for agents: cinematic dramaturgy (Murch, blocking, montage) + exact prompt syntax for Seedance 2.5, Kling 3.0 Turbo/Omni, Veo 3.1, Nano Banana 2, GPT Image 2.5.",
    "kind": "mcp",
    "security_grade": "safe",
@@ -113,7 +113,7 @@
   {
    "repo_full_name": "AKCodez/higgsfield-claude-skills",
    "path": null,
-   "stars": 451,
+   "stars": 452,
    "description": "19 Claude Code skills for Higgsfield AI — automate image generation, Seedance 2.0 video creation, and full UGC ad pipelines with Playwright browser automation",
    "kind": "mcp",
    "security_grade": "safe",
@@ -133,7 +133,7 @@
   {
    "repo_full_name": "zhongweili/nanobanana-mcp-server",
    "path": null,
-   "stars": 401,
+   "stars": 402,
    "description": "AI image generation MCP server powered by Google Gemini, with smart model selection and 4K output",
    "kind": "mcp",
    "security_grade": "safe",
@@ -163,7 +163,7 @@
   {
    "repo_full_name": "kodelyx/flow-agent",
    "path": null,
-   "stars": 237,
+   "stars": 239,
    "description": "⚡ CLI toolkit for Google Flow — Nano Banana Pro images, Omni Flash videos, MCP v2 & OpenAI API.",
    "kind": "mcp",
    "security_grade": "safe",
@@ -183,7 +183,7 @@
   {
    "repo_full_name": "glibsonoran/Plush-for-ComfyUI",
    "path": null,
-   "stars": 199,
+   "stars": 200,
    "description": "Custom node for ComfyUI/Stable Diffustion",
    "kind": "mcp",
    "security_grade": "safe",
@@ -193,7 +193,7 @@
   {
    "repo_full_name": "shinpr/mcp-image",
    "path": null,
-   "stars": 181,
+   "stars": 182,
    "description": "MCP server for AI image generation and editing with automatic prompt optimization and quality presets. Supports Nano Banana (Gemini), OpenAI GPT Image, and BytePlus Seedream.",
    "kind": "mcp",
    "security_grade": "safe",
@@ -253,7 +253,7 @@
   {
    "repo_full_name": "iconben/z-image-studio",
    "path": null,
-   "stars": 128,
+   "stars": 127,
    "description": "A Cli, a webUI, and a MCP server for the Z-Image-Turbo text-to-image generation model (Tongyi-MAI/Z-Image-Turbo base model as well as quantized models)",
    "kind": "mcp",
    "security_grade": "safe",
@@ -263,7 +263,7 @@
   {
    "repo_full_name": "RioShiina47/comfy-webui",
    "path": null,
-   "stars": 115,
+   "stars": 116,
    "description": "A recipe-driven WaaS platform for ComfyUI that turns complex workflows (Image, Audio, Video, 3D) into intuitive Gradio UIs, high-level semantic APIs, and MCP tools for LLMs & AI Agents.",
    "kind": "mcp",
    "security_grade": "safe",
@@ -273,7 +273,7 @@
   {
    "repo_full_name": "SlavaSexton/ComfyUI-Agent-Kit",
    "path": null,
-   "stars": 110,
+   "stars": 109,
    "description": "One ComfyUI skill for every AI coding agent (Claude Code, Codex, Gemini CLI, Qwen Code): drives a local ComfyUI end to end. 75 model prompt recipes, 581 templates, plus standalone Seedance, Krea and MiniMax H3 skills. Hardware-aware selection, workflow building, multi-shot video, ControlNet, HDR. By AI VFX NEWS.",
    "kind": "mcp",
    "security_grade": "safe",
@@ -281,24 +281,24 @@
    "license": "Apache-2.0"
   },
   {
-   "repo_full_name": "hassancs91/claude-image-generation",
-   "path": null,
-   "stars": 107,
-   "description": "Connect Claude to image generation with Agent Skills. Three levels: a zero-cost code-based design engine, a Three.js 3D renderer, and a real diffusion model on Cloudflare. Plus an AI Storybook pipeline that turns a plain-English story into an illustrated, narrated HTML book.",
-   "kind": "mcp",
-   "security_grade": "safe",
-   "language": "HTML",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "Subaru486desuwa/micu-image-mcp",
    "path": null,
-   "stars": 106,
+   "stars": 108,
    "description": "MCP server wrapping 米醋 gpt-image-2 / gpt-image-2-pro proxy. One-click install for Claude Code / Codex / Cursor.",
    "kind": "mcp",
    "security_grade": "safe",
    "language": "Rust",
    "license": null
+  },
+  {
+   "repo_full_name": "hassancs91/claude-image-generation",
+   "path": null,
+   "stars": 108,
+   "description": "Connect Claude to image generation with Agent Skills. Three levels: a zero-cost code-based design engine, a Three.js 3D renderer, and a real diffusion model on Cloudflare. Plus an AI Storybook pipeline that turns a plain-English story into an illustrated, narrated HTML book.",
+   "kind": "mcp",
+   "security_grade": "safe",
+   "language": "HTML",
+   "license": "MIT"
   },
   {
    "repo_full_name": "awkoy/replicate-flux-mcp",
@@ -431,16 +431,6 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "Cripacx/mediagen",
-   "path": null,
-   "stars": 52,
-   "description": "AI image and video generation skill for Claude Code and other coding agents — Gemini, OpenAI and Kie AI behind one CLI and MCP server, with EU AI Act content marking.",
-   "kind": "mcp",
-   "security_grade": "safe",
-   "language": "TypeScript",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "yizhiyanhua-ai/zimage-skill",
    "path": null,
    "stars": 52,
@@ -451,9 +441,19 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "Cripacx/mediagen",
+   "path": null,
+   "stars": 51,
+   "description": "AI image and video generation skill for Claude Code and other coding agents — Gemini, OpenAI and Kie AI behind one CLI and MCP server, with EU AI Act content marking.",
+   "kind": "mcp",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "jomeswang/agnes-ai-skill",
    "path": null,
-   "stars": 46,
+   "stars": 47,
    "description": "Agnes AI skill for text, image, and video APIs with persistent auth and OpenAI-style workflows",
    "kind": "mcp",
    "security_grade": "safe",
@@ -493,7 +493,7 @@
   {
    "repo_full_name": "liangdabiao/image-prompt-studio",
    "path": null,
-   "stars": 33,
+   "stars": 34,
    "description": "简单一句话： 复刻图片风格，模仿风格生图！ 结构化 JSON 提示词生成与修改 skill —— 用 **JSON 而非长段自然语言** 控制 AI 生图，实现精准定制、模块化复用与系列作品一致性。提示词同时兼容 **Nano Banana 与 GPT-Image 双模型家族**，生图统一走 ** apiz.ai/**，识图分析由**运行时 agent** 直接完成。",
    "kind": "mcp",
    "security_grade": "safe",
@@ -503,7 +503,7 @@
   {
    "repo_full_name": "LawrenceRiver/FigFox-Gen-skill",
    "path": null,
-   "stars": 32,
+   "stars": 33,
    "description": "Scientific paper figure generation Skill for agents: web research-figure conventions, controlled colour, topology planning, and image generation. 科研论文图生成 Skill：联网参考、配色与拓扑规划。",
    "kind": "mcp",
    "security_grade": "safe",
@@ -513,7 +513,7 @@
   {
    "repo_full_name": "stevenjinlong/remote-imagegen",
    "path": null,
-   "stars": 24,
+   "stars": 23,
    "description": "适用于自定义 OpenAI 兼容 base_url 的 Codex 独立生图 skill，支持文生图与参考图编辑，并可自动从本地 Codex 配置中读取 URL 和 API Key。 An independent Codex image-generation skill for custom OpenAI-compatible base_url setups, supporting text-to-image and reference-image editing while automatically loading the endpoint URL and API key from the local Codex configuration.",
    "kind": "mcp",
    "security_grade": "safe",
@@ -533,11 +533,21 @@
   {
    "repo_full_name": "SamurAIGPT/Generative-Media-Skills",
    "path": null,
-   "stars": 19,
+   "stars": 20,
    "description": "Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). High-quality image, video, and audio generation powered by muapi.ai.",
    "kind": "mcp",
    "security_grade": "safe",
    "language": "Shell",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "black-forest-labs/flux-mcp",
+   "path": null,
+   "stars": 18,
+   "description": "Official FLUX MCP server. Generate, edit, vary, and browse FLUX images from any MCP client.",
+   "kind": "mcp",
+   "security_grade": "safe",
+   "language": null,
    "license": "MIT"
   },
   {
@@ -549,16 +559,6 @@
    "security_grade": "safe",
    "language": "TypeScript",
    "license": null
-  },
-  {
-   "repo_full_name": "black-forest-labs/flux-mcp",
-   "path": null,
-   "stars": 16,
-   "description": "Official FLUX MCP server. Generate, edit, vary, and browse FLUX images from any MCP client.",
-   "kind": "mcp",
-   "security_grade": "safe",
-   "language": null,
-   "license": "MIT"
   },
   {
    "repo_full_name": "PUSHINGSQUARES/pushing-creation",
@@ -671,6 +671,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "ShalomObongo/codex-imagegen-mcp",
+   "path": null,
+   "stars": 8,
+   "description": "Codex's image generation in every coding agent: an MCP server + Agent Skill with a one-command installer for opencode, Claude Code, Codex, Cursor, VS Code, Gemini CLI and 20 more tools. Runs on your ChatGPT plan with no API key.",
+   "kind": "mcp",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "Apache-2.0"
+  },
+  {
    "repo_full_name": "xinyiqin/X2V-AI-Images-Videos-skill",
    "path": null,
    "stars": 8,
@@ -709,16 +719,6 @@
    "security_grade": "safe",
    "language": "Python",
    "license": "NOASSERTION"
-  },
-  {
-   "repo_full_name": "ShalomObongo/codex-imagegen-mcp",
-   "path": null,
-   "stars": 7,
-   "description": "Codex's image generation in every coding agent: an MCP server + Agent Skill with a one-command installer for opencode, Claude Code, Codex, Cursor, VS Code, Gemini CLI and 20 more tools. Runs on your ChatGPT plan with no API key.",
-   "kind": "mcp",
-   "security_grade": "safe",
-   "language": "TypeScript",
-   "license": "Apache-2.0"
   },
   {
    "repo_full_name": "dqtx760/deepseek-imagegen",
@@ -853,7 +853,7 @@
   {
    "repo_full_name": "helloianneo/ian-xiaohei-illustrations",
    "path": null,
-   "stars": 12788,
+   "stars": 12807,
    "description": "中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill",
    "kind": "gpt_image",
    "security_grade": "safe",
@@ -863,7 +863,7 @@
   {
    "repo_full_name": "ningzimu/codex-ppt-skill",
    "path": null,
-   "stars": 7255,
+   "stars": 7284,
    "description": "GPT-Image-2 PPT Generator Skill for Creating Image-Based PowerPoint Presentations in Codex and Other Skill-Compatible Agents",
    "kind": "gpt_image",
    "security_grade": "safe",
@@ -873,7 +873,7 @@
   {
    "repo_full_name": "wuyoscar/GPT-Image2-Skill",
    "path": null,
-   "stars": 5866,
+   "stars": 5872,
    "description": "GPT Image 2/2.5 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing",
    "kind": "gpt_image",
    "security_grade": "safe",
@@ -883,7 +883,7 @@
   {
    "repo_full_name": "liyue-aigc/female-portrait-director",
    "path": null,
-   "stars": 1676,
+   "stars": 1677,
    "description": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
    "kind": "gpt_image",
    "security_grade": "safe",
@@ -893,7 +893,7 @@
   {
    "repo_full_name": "helloianneo/ian-handdrawn-ppt",
    "path": null,
-   "stars": 1490,
+   "stars": 1491,
    "description": "中文手绘技术 PPT 整页图像生成 Skill | 21:9 封面 + 16:9 正文配图 | PNG 输出",
    "kind": "gpt_image",
    "security_grade": "safe",
@@ -903,7 +903,7 @@
   {
    "repo_full_name": "liangdabiao/ecom-details-image",
    "path": null,
-   "stars": 1464,
+   "stars": 1474,
    "description": "一个面向workbuddy / Codex 等agent 的跨境电商和国内电商通用视觉创作 Skill。我精选25个高质量案例，涵盖纯色底产品主图、场景化生活图、平铺图、电商详情图、真实场景等等，全部配完整提示词，都可以利用 GPT-Image-2 API生成最终效果。一键生成电商相关图片！输入产品图片和需求描述，自动生成完整的电商主图、详情页图片、社媒推广图、直播间场景图等全套视觉素材。 与众不同之处是：**Campaign Style Lock** 机制 和 **强推广** 和 **重视转化效果**。",
    "kind": "gpt_image",
    "security_grade": "safe",
@@ -913,7 +913,7 @@
   {
    "repo_full_name": "JuneYaooo/gpt-image2-ppt-skills",
    "path": null,
-   "stars": 1387,
+   "stars": 1388,
    "description": "Clone any .pptx into your own deck — OpenAI gpt-image-2 mimics the layout, you supply the content. 10 bundled styles. | 把任何 .pptx 模板\"抄\"成你的 PPT：gpt-image-2 仿版式、你换内容，另含 10 套精选风格。Claude Code / OpenClaw skill. ",
    "kind": "gpt_image",
    "security_grade": "safe",
@@ -923,7 +923,7 @@
   {
    "repo_full_name": "Evianis/travel-photo-abstraction",
    "path": null,
-   "stars": 788,
+   "stars": 790,
    "description": "A source-available Codex skill for distilling photographs into sparse editorial abstractions.",
    "kind": "gpt_image",
    "security_grade": "safe",
@@ -943,7 +943,7 @@
   {
    "repo_full_name": "dacnay816y62-hub/photo-revival",
    "path": null,
-   "stars": 595,
+   "stars": 597,
    "description": "Codex skill for turning everyday photos into poetic white-paper hand-drawn illustrations.",
    "kind": "gpt_image",
    "security_grade": "safe",
@@ -963,7 +963,7 @@
   {
    "repo_full_name": "TaiT-tt/tait-crt-interface-skill",
    "path": null,
-   "stars": 534,
+   "stars": 535,
    "description": "TaiT-CRT-Interface-Skill is a Codex image generation skill that transforms user-uploaded portraits, photographs, or text descriptions into a retro illustration with the feel of an early CRT computer interface.",
    "kind": "gpt_image",
    "security_grade": "safe",
@@ -973,7 +973,7 @@
   {
    "repo_full_name": "oil-oil/draw-ui",
    "path": null,
-   "stars": 512,
+   "stars": 516,
    "description": "UI design & mockup skill for Claude Code & Codex, from screenshot to code. 帮你出 UI 设计稿并还原成页面。",
    "kind": "gpt_image",
    "security_grade": "safe",
@@ -983,7 +983,7 @@
   {
    "repo_full_name": "op7418/guizang-yingzao-skill",
    "path": null,
-   "stars": 512,
+   "stars": 514,
    "description": "🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
    "kind": "gpt_image",
    "security_grade": "safe",
@@ -1063,7 +1063,7 @@
   {
    "repo_full_name": "Sateezg/codex-bridge",
    "path": null,
-   "stars": 244,
+   "stars": 243,
    "description": "Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the Codex CLI login you already have. No OpenAI API key.",
    "kind": "gpt_image",
    "security_grade": "safe",
@@ -1113,7 +1113,7 @@
   {
    "repo_full_name": "JuneYaooo/xhs-writer-skill",
    "path": null,
-   "stars": 165,
+   "stars": 164,
    "description": "小红书爆款笔记生成器，基于gpt-image-2，强力超快生成，自然语言修改，超好用！",
    "kind": "gpt_image",
    "security_grade": "safe",
@@ -1123,7 +1123,7 @@
   {
    "repo_full_name": "Xiangyu-CAS/codex-canvas",
    "path": null,
-   "stars": 152,
+   "stars": 153,
    "description": "Infinite canvas plugin for codex;  Codex无限画布插件，图层分离，涂抹修改",
    "kind": "gpt_image",
    "security_grade": "safe",
@@ -1171,23 +1171,23 @@
    "license": null
   },
   {
-   "repo_full_name": "yuji-hatakeyama/opencode-gpt-imagegen",
-   "path": null,
-   "stars": 113,
-   "description": "OpenCode plugin: image generation via your ChatGPT subscription",
-   "kind": "gpt_image",
-   "security_grade": "safe",
-   "language": "TypeScript",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "xianyu110/ecommerce-image-skills",
    "path": null,
-   "stars": 112,
+   "stars": 115,
    "description": "12 电商出图 Agent Skills for Claude Code / Codex / Cursor · GPT Image 2.5 (Flare/Sunburst) · Amazon 白底主图, A+, 场景图, 模特图, 小红书封面, 淘宝详情页",
    "kind": "gpt_image",
    "security_grade": "safe",
    "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "yuji-hatakeyama/opencode-gpt-imagegen",
+   "path": null,
+   "stars": 114,
+   "description": "OpenCode plugin: image generation via your ChatGPT subscription",
+   "kind": "gpt_image",
+   "security_grade": "safe",
+   "language": "TypeScript",
    "license": "MIT"
   },
   {
@@ -1203,7 +1203,7 @@
   {
    "repo_full_name": "FANzR-arch/Phil-design-skills",
    "path": null,
-   "stars": 101,
+   "stars": 102,
    "description": "19 套可直接生图的视觉风格 Skills，为 gpt-image-2 编写。把文章、主题、产品或已有视觉资产编译成完整提示词。/ 19 visual-style prompt skills for gpt-image-2.",
    "kind": "gpt_image",
    "security_grade": "safe",
@@ -1241,6 +1241,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "actionow-ai/c2c_img",
+   "path": null,
+   "stars": 85,
+   "description": "Native-feeling image generation for Claude Code, powered by your local Codex (ChatGPT) image_gen. No API key needed.",
+   "kind": "gpt_image",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "robonuggets/gpt-image-2-skill",
    "path": null,
    "stars": 74,
@@ -1269,16 +1279,6 @@
    "security_grade": "safe",
    "language": "Python",
    "license": null
-  },
-  {
-   "repo_full_name": "actionow-ai/c2c_img",
-   "path": null,
-   "stars": 72,
-   "description": "Native-feeling image generation for Claude Code, powered by your local Codex (ChatGPT) image_gen. No API key needed.",
-   "kind": "gpt_image",
-   "security_grade": "unknown",
-   "language": "Python",
-   "license": "MIT"
   },
   {
    "repo_full_name": "ningzimu/codex-gpt-image",
@@ -1313,7 +1313,7 @@
   {
    "repo_full_name": "EvoLinkAI/gpt-image-2-gen-skill",
    "path": null,
-   "stars": 57,
+   "stars": 56,
    "description": "GPT Image 2 AI image generation skill for OpenClaw, Claude Code, OpenCode, and Cursor - one command install",
    "kind": "gpt_image",
    "security_grade": "unknown",
@@ -1351,6 +1351,16 @@
    "license": "GPL-3.0"
   },
   {
+   "repo_full_name": "KingGyuSuh/codex-image-in-cc",
+   "path": null,
+   "stars": 40,
+   "description": "Claude Code plugin that exposes Codex CLI's built-in imagegen skill as /codex-image:* user-invoked slash commands.",
+   "kind": "gpt_image",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "Apache-2.0"
+  },
+  {
    "repo_full_name": "james20141606/sci-figure-workflow",
    "path": null,
    "stars": 40,
@@ -1369,16 +1379,6 @@
    "security_grade": "safe",
    "language": "Python",
    "license": null
-  },
-  {
-   "repo_full_name": "KingGyuSuh/codex-image-in-cc",
-   "path": null,
-   "stars": 39,
-   "description": "Claude Code plugin that exposes Codex CLI's built-in imagegen skill as /codex-image:* user-invoked slash commands.",
-   "kind": "gpt_image",
-   "security_grade": "safe",
-   "language": "JavaScript",
-   "license": "Apache-2.0"
   },
   {
    "repo_full_name": "boteSu/aiChatGptAgent",
@@ -1441,20 +1441,20 @@
    "license": null
   },
   {
-   "repo_full_name": "AlekseiUL/gpt-image-2-5-agent-kit",
+   "repo_full_name": "alchaincyf/huashu-gpt-image",
    "path": null,
-   "stars": 25,
-   "description": "GPT Image 2.5 Sunburst & Flare toolkit for agents: generation, reference and masked edits, PNG/JPEG/WebP, dry-runs and validated receipts. Experimental ChatGPT/Codex backend.",
+   "stars": 26,
+   "description": "GPT-image-2 的 prompt 工程方法论。核心：用真实参考名替代形容词，prompt 默认中文短句。含单图 playbook、批量网格生成、失败模式树。跨 agent 通用。",
    "kind": "gpt_image",
    "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
   {
-   "repo_full_name": "alchaincyf/huashu-gpt-image",
+   "repo_full_name": "AlekseiUL/gpt-image-2-5-agent-kit",
    "path": null,
    "stars": 25,
-   "description": "GPT-image-2 的 prompt 工程方法论。核心：用真实参考名替代形容词，prompt 默认中文短句。含单图 playbook、批量网格生成、失败模式树。跨 agent 通用。",
+   "description": "GPT Image 2.5 Sunburst & Flare toolkit for agents: generation, reference and masked edits, PNG/JPEG/WebP, dry-runs and validated receipts. Experimental ChatGPT/Codex backend.",
    "kind": "gpt_image",
    "security_grade": "safe",
    "language": "Python",
@@ -1621,6 +1621,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "zvensmoluya/zven-imagegen",
+   "path": null,
+   "stars": 9,
+   "description": "一个面向 Codex 的图像生成 skill，支持 base_url + key 和 stream 流式传输，用来降低长连接超时断连的概率。",
+   "kind": "gpt_image",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "JuneLearn/dsh-image2-draw",
    "path": null,
    "stars": 8,
@@ -1659,16 +1669,6 @@
    "security_grade": "safe",
    "language": "Python",
    "license": null
-  },
-  {
-   "repo_full_name": "zvensmoluya/zven-imagegen",
-   "path": null,
-   "stars": 8,
-   "description": "一个面向 Codex 的图像生成 skill，支持 base_url + key 和 stream 流式传输，用来降低长连接超时断连的概率。",
-   "kind": "gpt_image",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
   },
   {
    "repo_full_name": "FA-T-T/codex-skill-academic-slides",
@@ -1763,7 +1763,7 @@
   {
    "repo_full_name": "op7418/NanoBanana-PPT-Skills",
    "path": null,
-   "stars": 3330,
+   "stars": 3331,
    "description": "NanoBanana PPT Skills 基于 AI 自动生成高质量 PPT 图片和视频的强大工具，支持智能转场和交互式播放",
    "kind": "nano_banana",
    "security_grade": "caution",
@@ -1773,7 +1773,7 @@
   {
    "repo_full_name": "AgriciDaniel/banana-claude",
    "path": null,
-   "stars": 1128,
+   "stars": 1133,
    "description": "AI image generation skill for Claude Code - Creative Director powered by Gemini",
    "kind": "nano_banana",
    "security_grade": "safe",
@@ -1851,6 +1851,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "YCSE/nanobanana-mcp",
+   "path": null,
+   "stars": 32,
+   "description": "Gemini Vision & Image Generation MCP for Claude Desktop and Claude Code",
+   "kind": "nano_banana",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "dancolta/gen-images-skill",
    "path": null,
    "stars": 32,
@@ -1859,16 +1869,6 @@
    "security_grade": "safe",
    "language": null,
    "license": null
-  },
-  {
-   "repo_full_name": "YCSE/nanobanana-mcp",
-   "path": null,
-   "stars": 31,
-   "description": "Gemini Vision & Image Generation MCP for Claude Desktop and Claude Code",
-   "kind": "nano_banana",
-   "security_grade": "safe",
-   "language": "JavaScript",
-   "license": "MIT"
   },
   {
    "repo_full_name": "feedtailor/ccskill-nanobanana",
@@ -2013,7 +2013,7 @@
   {
    "repo_full_name": "Arekejoker/qwen21-nsfw-pose-skill",
    "path": null,
-   "stars": 3696,
+   "stars": 3716,
    "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
    "kind": "open_models",
    "security_grade": "safe",
@@ -2033,7 +2033,7 @@
   {
    "repo_full_name": "HuangYuChuh/ComfyUI_Skills_OpenClaw",
    "path": null,
-   "stars": 418,
+   "stars": 419,
    "description": "Agent-friendly ComfyUI workflow skills for OpenClaw, Hermes Agent, Codex, and Claude Code; complementary to Comfy official local MCP.",
    "kind": "open_models",
    "security_grade": "safe",
@@ -2063,7 +2063,7 @@
   {
    "repo_full_name": "calesthio/generative-media-skills",
    "path": null,
-   "stars": 213,
+   "stars": 215,
    "description": "Research-backed agent skills and tools for premium image, video, audio, voice, and generative media production across AI coding assistants.",
    "kind": "open_models",
    "security_grade": "safe",
@@ -2073,7 +2073,7 @@
   {
    "repo_full_name": "black-forest-labs/skills",
    "path": null,
-   "stars": 136,
+   "stars": 135,
    "description": "Official agent skills from Black Forest Labs for FLUX image and video generation — prompting guides and API integration patterns for Claude Code, Codex, and any agentskills.io-compatible agent.",
    "kind": "open_models",
    "security_grade": "safe",
@@ -2083,7 +2083,7 @@
   {
    "repo_full_name": "MieMieeeee/comfyui-agent-skill",
    "path": null,
-   "stars": 118,
+   "stars": 119,
    "description": "Enable agents to run registered ComfyUI workflows through a local ComfyUI server using this repo’s CLI, returning structured JSON outputs.",
    "kind": "open_models",
    "security_grade": "safe",
@@ -2093,7 +2093,7 @@
   {
    "repo_full_name": "lisamsung/agent-meme-forge",
    "path": null,
-   "stars": 98,
+   "stars": 99,
    "description": "Codex skill that turns one image or text concept into a WeChat-ready Chinese sticker pack people will actually send. Sendability-gated, 4-keypose → 16-frame, no model-drawn text.",
    "kind": "open_models",
    "security_grade": "safe",
@@ -2233,7 +2233,7 @@
   {
    "repo_full_name": "ybuild-ai/ai-game-art-pipeline-skill",
    "path": null,
-   "stars": 301,
+   "stars": 304,
    "description": "Agent skill from Y Build for turning AI images and videos into playable game art assets",
    "kind": "editing",
    "security_grade": "safe",
@@ -2243,11 +2243,11 @@
   {
    "repo_full_name": "GabrieleLozupone/kokon",
    "path": null,
-   "stars": 212,
+   "stars": 218,
    "description": "Edit photos by describing the change, on your own GPU. A free, open-source alternative to Nano Banana and ChatGPT image editing: photos stay on your computer, no daily limit. One installer for Windows, Mac and Linux sets up the best open model (Qwen-Image 2.1). MCP server for AI agents.",
    "kind": "editing",
    "security_grade": "safe",
-   "language": "Rust",
+   "language": "TypeScript",
    "license": "AGPL-3.0"
   },
   {
@@ -2273,7 +2273,7 @@
   {
    "repo_full_name": "s1dashu/ip-as-logo-skill",
    "path": null,
-   "stars": 6137,
+   "stars": 6155,
    "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
    "kind": "design",
    "security_grade": "safe",
@@ -2283,7 +2283,7 @@
   {
    "repo_full_name": "yanliudesign/mono-color-skill",
    "path": null,
-   "stars": 3490,
+   "stars": 3498,
    "description": "One-ink editorial print image skill — warm paper, halftone photography, active negative space, and restrained typography.",
    "kind": "design",
    "security_grade": "safe",
@@ -2293,7 +2293,7 @@
   {
    "repo_full_name": "threerocks/hand-drawn-styles",
    "path": null,
-   "stars": 2538,
+   "stars": 2546,
    "description": "Claude Code skill：把内容套进内置手绘画风配方,产出可直接复制的生图提示词。内置儿童涂色/极简线条/蜡笔童涂/吉卜力/小豆人涂鸦 5 种已验证画风。",
    "kind": "design",
    "security_grade": "safe",
@@ -2303,7 +2303,7 @@
   {
    "repo_full_name": "YouMind-OpenLab/ai-image-prompts-skill",
    "path": null,
-   "stars": 1328,
+   "stars": 1334,
    "description": "AI Image Prompts — 10,000+ curated prompts for any model. Works with Nano Banana Pro, Nano Banana 2, Seedream 5.0, GPT Image 1.5, Midjourney, DALL-E, Flux, Stable Diffusion, and more.",
    "kind": "design",
    "security_grade": "safe",
@@ -2323,7 +2323,7 @@
   {
    "repo_full_name": "izscc/cc2image",
    "path": null,
-   "stars": 189,
+   "stars": 190,
    "description": "codex 中文内容交互式生图系统 Skill：认知锚点拆图、49 套内容风格 + 8 套 logo/图标模式，支持封面、正文配图、系列主视觉和批量生图提示词。",
    "kind": "design",
    "security_grade": "safe",
@@ -2343,7 +2343,7 @@
   {
    "repo_full_name": "dacnay816y62-hub/fantasy-qiqiguaiguai-skill",
    "path": null,
-   "stars": 124,
+   "stars": 125,
    "description": "FANTASY-qiqiguaiguai Codex skill for funny editorial social posts, 3:4 posters, collage, street snapshots, pets, travel and Chinese typography.",
    "kind": "design",
    "security_grade": "safe",
@@ -2373,7 +2373,7 @@
   {
    "repo_full_name": "oil-oil/oil-visual",
    "path": null,
-   "stars": 104,
+   "stars": 105,
    "description": "制作统一漫画墨线风格的解释图与透明角色插图，用于概念、流程、比较和文章配图。",
    "kind": "design",
    "security_grade": "safe",
@@ -2433,7 +2433,7 @@
   {
    "repo_full_name": "JKc66/custom-icons-skill",
    "path": null,
-   "stars": 40,
+   "stars": 41,
    "description": "skill to create custom icons using IDEs or extentions that have image generation support",
    "kind": "design",
    "security_grade": "safe",
@@ -2443,7 +2443,7 @@
   {
    "repo_full_name": "Beatatata/ip-character-designer",
    "path": null,
-   "stars": 23,
+   "stars": 24,
    "description": "🎨 自媒体 IP 配图生成器 — 10种画风 × 双版本输出 × 中文提示词 | Cola/Claude Skill for IP image generation with Dreamina",
    "kind": "design",
    "security_grade": "safe",
