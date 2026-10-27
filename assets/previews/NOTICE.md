@@ -7,8 +7,8 @@ authors and stay under the license of the project they come from. To have one re
 | File | Project | License | Original |
 |---|---|---|---|
 | `actionow-ai__c2c_img.jpg` | [actionow-ai/c2c_img](https://github.com/actionow-ai/c2c_img) | MIT | [source](https://raw.githubusercontent.com/actionow-ai/c2c_img/HEAD/docs/images/poster-zh.jpg) |
-| `Arekejoker__qwen21-nsfw-pose-skill.jpg` | [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) | Apache-2.0 | [source](https://raw.githubusercontent.com/Arekejoker/qwen21-nsfw-pose-skill/HEAD/references/pose_examples/01_seaside.png) |
 | `AtlasCloudAI__cli.gif` | [AtlasCloudAI/cli](https://github.com/AtlasCloudAI/cli) | MIT | [source](https://raw.githubusercontent.com/AtlasCloudAI/cli/main/demo.gif) |
+| `ethanplusai__generate-image-skill.jpg` | [ethanplusai/generate-image-skill](https://github.com/ethanplusai/generate-image-skill) | MIT | [source](https://raw.githubusercontent.com/ethanplusai/generate-image-skill/HEAD/assets/showcase/codex/product.webp) |
 | `frannkurt__nano-banana-mcp.jpg` | [frannkurt/nano-banana-mcp](https://github.com/frannkurt/nano-banana-mcp) | Apache-2.0 | [source](https://raw.githubusercontent.com/frannkurt/nano-banana-mcp/HEAD/docs/size-1200x630.jpg) |
 | `JuneLearn__dsh-image2-draw.jpg` | [JuneLearn/dsh-image2-draw](https://github.com/JuneLearn/dsh-image2-draw) | MIT | [source](https://raw.githubusercontent.com/JuneLearn/dsh-image2-draw/HEAD/assets/image2-result-card.png) |
 | `JuneYaooo__gpt-image2-ppt-skills.jpg` | [JuneYaooo/gpt-image2-ppt-skills](https://github.com/JuneYaooo/gpt-image2-ppt-skills) | Apache-2.0 | [source](https://raw.githubusercontent.com/JuneYaooo/gpt-image2-ppt-skills/HEAD/docs/assets/template-demo-output.jpg) |

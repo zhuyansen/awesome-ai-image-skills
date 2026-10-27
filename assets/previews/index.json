@@ -1,14 +1,4 @@
 {
- "Arekejoker/qwen21-nsfw-pose-skill": {
-  "repo": "Arekejoker/qwen21-nsfw-pose-skill",
-  "url": "https://raw.githubusercontent.com/Arekejoker/qwen21-nsfw-pose-skill/HEAD/references/pose_examples/01_seaside.png",
-  "alt": "",
-  "score": -0.05,
-  "type": "image/png",
-  "bytes": 3424962,
-  "file": "Arekejoker__qwen21-nsfw-pose-skill.jpg",
-  "still": "Arekejoker__qwen21-nsfw-pose-skill.jpg"
- },
  "AtlasCloudAI/cli": {
   "repo": "AtlasCloudAI/cli",
   "url": "https://raw.githubusercontent.com/AtlasCloudAI/cli/main/demo.gif",
@@ -88,6 +78,16 @@
   "bytes": 110671,
   "file": "actionow-ai__c2c_img.jpg",
   "still": "actionow-ai__c2c_img.jpg"
+ },
+ "ethanplusai/generate-image-skill": {
+  "repo": "ethanplusai/generate-image-skill",
+  "url": "https://raw.githubusercontent.com/ethanplusai/generate-image-skill/HEAD/assets/showcase/codex/product.webp",
+  "alt": "Codex product example",
+  "score": 1.6,
+  "type": "image/webp",
+  "bytes": 8552,
+  "file": "ethanplusai__generate-image-skill.jpg",
+  "still": "ethanplusai__generate-image-skill.jpg"
  },
  "frannkurt/nano-banana-mcp": {
   "repo": "frannkurt/nano-banana-mcp",
