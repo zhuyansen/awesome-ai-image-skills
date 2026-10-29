@@ -109,6 +109,16 @@
   "file": "ningzimu__codex-ppt-skill.jpg",
   "still": "ningzimu__codex-ppt-skill.jpg"
  },
+ "obie/slopcore": {
+  "repo": "obie/slopcore",
+  "url": "https://raw.githubusercontent.com/obie/slopcore/HEAD/skills/music-video/examples/queso/stills/frame-0.0.jpg",
+  "alt": "The opening frame of Queso",
+  "score": 2.0,
+  "type": "image/jpeg",
+  "bytes": 93284,
+  "file": "obie__slopcore.jpg",
+  "still": "obie__slopcore.jpg"
+ },
  "sammyteng/illustration-studio": {
   "repo": "sammyteng/illustration-studio",
   "url": "https://raw.githubusercontent.com/sammyteng/illustration-studio/HEAD/examples/airy-lifestyle-linedraw.png",
