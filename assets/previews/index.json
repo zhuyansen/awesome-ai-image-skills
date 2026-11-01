@@ -149,6 +149,16 @@
   "file": "wuyoscar__GPT-Image2-Skill.jpg",
   "still": "wuyoscar__GPT-Image2-Skill.jpg"
  },
+ "yan-stone-computer/NexcoreMultimodalSkill": {
+  "repo": "yan-stone-computer/NexcoreMultimodalSkill",
+  "url": "https://raw.githubusercontent.com/yan-stone-computer/NexcoreMultimodalSkill/HEAD/images/local-comfyui.png",
+  "alt": "Private local ComfyUI and Qwen-Image-2.1 workstation",
+  "score": -0.25,
+  "type": "image/png",
+  "bytes": 1686524,
+  "file": "yan-stone-computer__NexcoreMultimodalSkill.jpg",
+  "still": "yan-stone-computer__NexcoreMultimodalSkill.jpg"
+ },
  "ybuild-ai/ai-game-art-pipeline-skill": {
   "repo": "ybuild-ai/ai-game-art-pipeline-skill",
   "url": "https://raw.githubusercontent.com/ybuild-ai/ai-game-art-pipeline-skill/HEAD/media/seedance-awakening-frames.jpg",
