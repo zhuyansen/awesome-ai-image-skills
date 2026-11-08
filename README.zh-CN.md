@@ -2,7 +2,7 @@
 
 [English](README.md)
 
-给 Claude Code、Codex 等 agent 用的开源 **生图 skill 和 MCP 服务**:GPT Image、Nano Banana 与 Gemini、Flux 与 Stable Diffusion、图片编辑和设计素材。共 250 个仓库,每个都由 [Agent Skills Hub (agentskillshub.top)](https://agentskillshub.top) 读过 README 并做了安全评级。
+给 Claude Code、Codex 等 agent 用的开源 **生图 skill 和 MCP 服务**:GPT Image、Nano Banana 与 Gemini、Flux 与 Stable Diffusion、图片编辑和设计素材。共 252 个仓库,每个都由 [Agent Skills Hub (agentskillshub.top)](https://agentskillshub.top) 读过 README 并做了安全评级。
 
 带类型筛选的在线页面:**[https://agentskillshub.top/best/image-generation/](https://agentskillshub.top/best/image-generation/)** · 每 8 小时刷新
 
@@ -12,10 +12,10 @@
 <tr>
 <td align="center" valign="top" width="33%"><b>🔌 MCP 服务</b><br><sub>84 个仓库</sub><br><br><a href="https://github.com/AtlasCloudAI/cli"><img src="assets/previews/AtlasCloudAI__cli.gif" width="260" alt="AtlasCloudAI/cli"></a><br><sub>给 AI 助手提供生图能力、可接多个模型的 MCP 服务。</sub><br><a href="#type-mcp"><b>查看列表 →</b></a></td>
 <td align="center" valign="top" width="33%"><b>🟢 GPT Image</b><br><sub>93 个仓库</sub><br><br><a href="https://github.com/actionow-ai/c2c_img"><img src="assets/previews/actionow-ai__c2c_img.jpg" width="260" alt="actionow-ai/c2c_img"></a><br><sub>基于 OpenAI 的 GPT Image 和 DALL-E。</sub><br><a href="#type-gpt_image"><b>查看列表 →</b></a></td>
-<td align="center" valign="top" width="33%"><b>🍌 Nano Banana 与 Gemini</b><br><sub>25 个仓库</sub><br><br><a href="https://github.com/frannkurt/nano-banana-mcp"><img src="assets/previews/frannkurt__nano-banana-mcp.jpg" width="260" alt="frannkurt/nano-banana-mcp"></a><br><sub>基于 Google 的 Nano Banana、Gemini 和 Imagen。</sub><br><a href="#type-nano_banana"><b>查看列表 →</b></a></td>
+<td align="center" valign="top" width="33%"><b>🍌 Nano Banana 与 Gemini</b><br><sub>26 个仓库</sub><br><br><a href="https://github.com/LunaAI519/motion-skill"><img src="assets/previews/LunaAI519__motion-skill.gif" width="260" alt="LunaAI519/motion-skill"></a><br><sub>基于 Google 的 Nano Banana、Gemini 和 Imagen。</sub><br><a href="#type-nano_banana"><b>查看列表 →</b></a></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><b>🧪 开源模型</b><br><sub>21 个仓库</sub><br><br><sub>Flux、Stable Diffusion、ComfyUI,多可自托管。</sub><br><a href="#type-open_models"><b>查看列表 →</b></a></td>
+<td align="center" valign="top" width="33%"><b>🧪 开源模型</b><br><sub>22 个仓库</sub><br><br><a href="https://github.com/FireTable/comfy-colab-kit"><img src="assets/previews/FireTable__comfy-colab-kit.gif" width="260" alt="FireTable/comfy-colab-kit"></a><br><sub>Flux、Stable Diffusion、ComfyUI,多可自托管。</sub><br><a href="#type-open_models"><b>查看列表 →</b></a></td>
 <td align="center" valign="top" width="33%"><b>✂️ 图片编辑</b><br><sub>5 个仓库</sub><br><br><a href="https://github.com/ybuild-ai/ai-game-art-pipeline-skill"><img src="assets/previews/ybuild-ai__ai-game-art-pipeline-skill.jpg" width="260" alt="ybuild-ai/ai-game-art-pipeline-skill"></a><br><sub>修图、抠图、放大、局部重绘。</sub><br><a href="#type-editing"><b>查看列表 →</b></a></td>
 <td align="center" valign="top" width="33%"><b>🎨 设计素材</b><br><sub>22 个仓库</sub><br><br><a href="https://github.com/sammyteng/illustration-studio"><img src="assets/previews/sammyteng__illustration-studio.jpg" width="260" alt="sammyteng/illustration-studio"></a><br><sub>图标、插画、封面、海报和 Logo。</sub><br><a href="#type-design"><b>查看列表 →</b></a></td>
 </tr>
@@ -25,8 +25,8 @@
 
 - [🔌 MCP 服务](#type-mcp) (84)
 - [🟢 GPT Image](#type-gpt_image) (93)
-- [🍌 Nano Banana 与 Gemini](#type-nano_banana) (25)
-- [🧪 开源模型](#type-open_models) (21)
+- [🍌 Nano Banana 与 Gemini](#type-nano_banana) (26)
+- [🧪 开源模型](#type-open_models) (22)
 - [✂️ 图片编辑](#type-editing) (5)
 - [🎨 设计素材](#type-design) (22)
 
@@ -52,42 +52,42 @@
 
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
-| [scenario-labs/skills](https://github.com/scenario-labs/skills) | 2.9k | agent图像/视频/音频/3D；skills选模型定价，ScenarioMCP角色品牌一致；Blender/Maya/ZBrush/Unreal/Unity。 | [SAFE](https://agentskillshub.top/skill/scenario-labs/skills/) |
+| [scenario-labs/skills](https://github.com/scenario-labs/skills) | 3.5k | agent图像/视频/音频/3D；skills选模型定价，ScenarioMCP角色品牌一致；Blender/Maya/ZBrush/Unreal/Unity。 | [SAFE](https://agentskillshub.top/skill/scenario-labs/skills/) |
 | [llmsresearch/paperbanana](https://github.com/llmsresearch/paperbanana) | 2.5k | Google Research 的 PaperBanana 开源实现与扩展，用于自动生成学术图表、示意图和研究视觉内容，并扩展至幻灯片生成等领域。 | [SAFE](https://agentskillshub.top/skill/llmsresearch/paperbanana/) |
 | [jau123/MeiGen-AI-Design-MCP](https://github.com/jau123/MeiGen-AI-Design-MCP) | 1.8k | 支持 GPT Image 2、Seedance 和 ComfyUI，含 1,400+ 提示词库、hooks 和多任务编排系统 | [SAFE](https://agentskillshub.top/skill/jau123/MeiGen-AI-Design-MCP/) |
 | [MiniMax-AI/MiniMax-MCP](https://github.com/MiniMax-AI/MiniMax-MCP) | 1.6k | 官方 MiniMax MCP 服务器，支持调用文本转语音、图像生成和视频生成 API。 | [SAFE](https://agentskillshub.top/skill/MiniMax-AI/MiniMax-MCP/) |
+| [artokun/comfyui-mcp](https://github.com/artokun/comfyui-mcp) | 899 | ComfyUI 的本地优先 agent 控制平面：MCP server 与侧边栏 agent 可生成多媒体、编写运行工作流，并借任意 LLM 自然语言编辑实时图 | [SAFE](https://agentskillshub.top/skill/artokun/comfyui-mcp/) |
 | [lidge-ai/ima2-gen](https://github.com/lidge-ai/ima2-gen) | 897 | 面向用户和编码代理的本地优先视觉生成运行时与工作室，支持跨多个提供商的可复现图像和视频工作流。 | [SAFE](https://agentskillshub.top/skill/lidge-ai/ima2-gen/) |
-| [artokun/comfyui-mcp](https://github.com/artokun/comfyui-mcp) | 893 | ComfyUI 的本地优先 agent 控制平面：MCP server 与侧边栏 agent 可生成多媒体、编写运行工作流，并借任意 LLM 自然语言编辑实时图 | [SAFE](https://agentskillshub.top/skill/artokun/comfyui-mcp/) |
-| [smixs/visual-skills](https://github.com/smixs/visual-skills) | 630 | agent电影导演skill：戏剧（Murch、调度、蒙太奇）及Seedance、Kling、Veo、Nano Banana、GPT Image精确提示词语法 | [SAFE](https://agentskillshub.top/skill/smixs/visual-skills/) |
-| [AKCodez/higgsfield-claude-skills](https://github.com/AKCodez/higgsfield-claude-skills) | 469 | 19个Higgsfield AI Claude Code skills：用Playwright自动化图像生成、Seedance 2.0视频制作及完整UGC广告… | [SAFE](https://agentskillshub.top/skill/AKCodez/higgsfield-claude-skills/) |
+| [smixs/visual-skills](https://github.com/smixs/visual-skills) | 635 | agent电影导演skill：戏剧（Murch、调度、蒙太奇）及Seedance、Kling、Veo、Nano Banana、GPT Image精确提示词语法 | [SAFE](https://agentskillshub.top/skill/smixs/visual-skills/) |
+| [AKCodez/higgsfield-claude-skills](https://github.com/AKCodez/higgsfield-claude-skills) | 472 | 19个Higgsfield AI Claude Code skills：用Playwright自动化图像生成、Seedance 2.0视频制作及完整UGC广告… | [SAFE](https://agentskillshub.top/skill/AKCodez/higgsfield-claude-skills/) |
 | [tmchow/illo-skill](https://github.com/tmchow/illo-skill) | 418 | illo skill：将创意和文章转为原创印刷风编辑插画，含固定吉祥物、30多个角色包，并可自定义。 | [SAFE](https://agentskillshub.top/skill/tmchow/illo-skill/) |
 | [zhongweili/nanobanana-mcp-server](https://github.com/zhongweili/nanobanana-mcp-server) | 403 | 由 Google Gemini 驱动的 AI 图像生成 MCP 服务器，支持模型选择和 4K 输出 | [SAFE](https://agentskillshub.top/skill/zhongweili/nanobanana-mcp-server/) |
-| [Comfy-Org/comfy-mcp](https://github.com/Comfy-Org/comfy-mcp) | 325 | 供 AI agents 运行本地 ComfyUI 的本地 MCP server | [SAFE](https://agentskillshub.top/skill/Comfy-Org/comfy-mcp/) |
-| [Subaru486desuwa/micu-image-mcp](https://github.com/Subaru486desuwa/micu-image-mcp) | 315 | 封装米醋 gpt-image-2 / gpt-image-2-pro 代理的 MCP server，可安装到 Claude Code、Codex、Cursor | [SAFE](https://agentskillshub.top/skill/Subaru486desuwa/micu-image-mcp/) |
-| [Hao0321/ai-media-generator](https://github.com/Hao0321/ai-media-generator) | 270 | Claude Code Skill，用于生成 AI 图像、视频和音乐提示词，并在 14+ 生成平台中通过浏览器执行。 | [SAFE](https://agentskillshub.top/skill/Hao0321/ai-media-generator/) |
-| [kodelyx/flow-agent](https://github.com/kodelyx/flow-agent) | 255 | Google Flow CLI 工具包，支持 Nano Banana Pro 图像、Omni Flash 视频、MCP v2 和 OpenAI API | [SAFE](https://agentskillshub.top/skill/kodelyx/flow-agent/) |
+| [Comfy-Org/comfy-mcp](https://github.com/Comfy-Org/comfy-mcp) | 333 | 供 AI agents 运行本地 ComfyUI 的本地 MCP server | [SAFE](https://agentskillshub.top/skill/Comfy-Org/comfy-mcp/) |
+| [Subaru486desuwa/micu-image-mcp](https://github.com/Subaru486desuwa/micu-image-mcp) | 321 | 封装米醋 gpt-image-2 / gpt-image-2-pro 代理的 MCP server，可安装到 Claude Code、Codex、Cursor | [SAFE](https://agentskillshub.top/skill/Subaru486desuwa/micu-image-mcp/) |
+| [Hao0321/ai-media-generator](https://github.com/Hao0321/ai-media-generator) | 273 | Claude Code Skill，用于生成 AI 图像、视频和音乐提示词，并在 14+ 生成平台中通过浏览器执行。 | [SAFE](https://agentskillshub.top/skill/Hao0321/ai-media-generator/) |
+| [kodelyx/flow-agent](https://github.com/kodelyx/flow-agent) | 259 | Google Flow CLI 工具包，支持 Nano Banana Pro 图像、Omni Flash 视频、MCP v2 和 OpenAI API | [SAFE](https://agentskillshub.top/skill/kodelyx/flow-agent/) |
 | [ConstantineB6/comfy-pilot](https://github.com/ConstantineB6/comfy-pilot) | 232 | MCP 服务器和内置终端，让 Claude Code 查看并编辑 ComfyUI 工作流 | [SAFE](https://agentskillshub.top/skill/ConstantineB6/comfy-pilot/) |
 | [glibsonoran/Plush-for-ComfyUI](https://github.com/glibsonoran/Plush-for-ComfyUI) | 200 | ComfyUI/Stable Diffustion 自定义节点 | [SAFE](https://agentskillshub.top/skill/glibsonoran/Plush-for-ComfyUI/) |
-| [shinpr/mcp-image](https://github.com/shinpr/mcp-image) | 187 | 用于 AI 图像生成与编辑的 MCP server，支持自动提示词优化、质量预设及 Nano Banana (Gemini)、OpenAI GPT Image… | [SAFE](https://agentskillshub.top/skill/shinpr/mcp-image/) |
-| [GENEXIS-AI/gpt-image-skill](https://github.com/GENEXIS-AI/gpt-image-skill) | 183 | 使用 ChatGPT 订阅，通过 Codex 或 Claude Code 生成 GPT 图像，无需 Images API。 | [SAFE](https://agentskillshub.top/skill/GENEXIS-AI/gpt-image-skill/) |
-| [Tencent/workrally](https://github.com/Tencent/workrally) | 183 | 面向 AI Agent 的 AIGC 漫剧视频全流程创作工具集 | [SAFE](https://agentskillshub.top/skill/Tencent/workrally/) |
-| [doudou770/flyreq-image-studio](https://github.com/doudou770/flyreq-image-studio) | 166 | AI生图与视频工作台，支持Agent、无限画布、素材管理、PWA及Grok、GPT Image 2等模型，适配手机端。 | [SAFE](https://agentskillshub.top/skill/doudou770/flyreq-image-studio/) |
-| [Moeblack/ComfyUI-AnimaTool](https://github.com/Moeblack/ComfyUI-AnimaTool) | 139 | 用于 Anima 动漫/插画图像生成的 AI 工具调用 API，支持 MCP Server、HTTP API 和 CLI。 | [SAFE](https://agentskillshub.top/skill/Moeblack/ComfyUI-AnimaTool/) |
+| [shinpr/mcp-image](https://github.com/shinpr/mcp-image) | 188 | 用于 AI 图像生成与编辑的 MCP server，支持自动提示词优化、质量预设及 Nano Banana (Gemini)、OpenAI GPT Image… | [SAFE](https://agentskillshub.top/skill/shinpr/mcp-image/) |
+| [Tencent/workrally](https://github.com/Tencent/workrally) | 186 | 面向 AI Agent 的 AIGC 漫剧视频全流程创作工具集 | [SAFE](https://agentskillshub.top/skill/Tencent/workrally/) |
+| [GENEXIS-AI/gpt-image-skill](https://github.com/GENEXIS-AI/gpt-image-skill) | 184 | 使用 ChatGPT 订阅，通过 Codex 或 Claude Code 生成 GPT 图像，无需 Images API。 | [SAFE](https://agentskillshub.top/skill/GENEXIS-AI/gpt-image-skill/) |
+| [doudou770/flyreq-image-studio](https://github.com/doudou770/flyreq-image-studio) | 170 | AI生图与视频工作台，支持Agent、无限画布、素材管理、PWA及Grok、GPT Image 2等模型，适配手机端。 | [SAFE](https://agentskillshub.top/skill/doudou770/flyreq-image-studio/) |
+| [Moeblack/ComfyUI-AnimaTool](https://github.com/Moeblack/ComfyUI-AnimaTool) | 140 | 用于 Anima 动漫/插画图像生成的 AI 工具调用 API，支持 MCP Server、HTTP API 和 CLI。 | [SAFE](https://agentskillshub.top/skill/Moeblack/ComfyUI-AnimaTool/) |
 | [joeseesun/qiaomu-codex-imagegen](https://github.com/joeseesun/qiaomu-codex-imagegen) | 136 | 让任意 Agent 通过 MCP、CLI 和 skill 调用 Codex 生图，内置小红书、视频封面和 Mondo 海报技巧 | [SAFE](https://agentskillshub.top/skill/joeseesun/qiaomu-codex-imagegen/) |
 | [iconben/z-image-studio](https://github.com/iconben/z-image-studio) | 128 | 基于 Tongyi-MAI/Z-Image-Turbo 及其量化模型的 CLI、webUI 和 MCP server | [SAFE](https://agentskillshub.top/skill/iconben/z-image-studio/) |
+| [SlavaSexton/ComfyUI-Agent-Kit](https://github.com/SlavaSexton/ComfyUI-Agent-Kit) | 119 | 适用于 AI coding agent 的 ComfyUI skill：驱动本地 ComfyUI，含75个配方、581个模板。 | [SAFE](https://agentskillshub.top/skill/SlavaSexton/ComfyUI-Agent-Kit/) |
 | [RioShiina47/comfy-webui](https://github.com/RioShiina47/comfy-webui) | 117 | 基于配方的 ComfyUI WaaS 平台，将图像、音频、视频和 3D 工作流转为直观的 Gradio 界面、高级语义 API 及供 LLM 和 AI age… | [SAFE](https://agentskillshub.top/skill/RioShiina47/comfy-webui/) |
-| [SlavaSexton/ComfyUI-Agent-Kit](https://github.com/SlavaSexton/ComfyUI-Agent-Kit) | 117 | 适用于 AI coding agent 的 ComfyUI skill：驱动本地 ComfyUI，含75个配方、581个模板。 | [SAFE](https://agentskillshub.top/skill/SlavaSexton/ComfyUI-Agent-Kit/) |
-| [hassancs91/claude-image-generation](https://github.com/hassancs91/claude-image-generation) | 110 | 用 Agent Skills 连接 Claude 与图像生成：代码设计引擎、Three.js 3D 渲染器和 Cloudflare 扩散模型；AI Story… | [SAFE](https://agentskillshub.top/skill/hassancs91/claude-image-generation/) |
+| [hassancs91/claude-image-generation](https://github.com/hassancs91/claude-image-generation) | 111 | 用 Agent Skills 连接 Claude 与图像生成：代码设计引擎、Three.js 3D 渲染器和 Cloudflare 扩散模型；AI Story… | [SAFE](https://agentskillshub.top/skill/hassancs91/claude-image-generation/) |
 | [awkoy/replicate-flux-mcp](https://github.com/awkoy/replicate-flux-mcp) | 106 | 用于 Replicate Flux Model 的 MCP，生成符合指定编程风格和审美的图像与 SVG 资源。 | [SAFE](https://agentskillshub.top/skill/awkoy/replicate-flux-mcp/) |
-| [Hikhakk/higgsfield-mcp-unified](https://github.com/Hikhakk/higgsfield-mcp-unified) | 104 | Higgsfield MCP：85 个模型；webhooks、成本估算、Soul ID 训练；可选支持 Sora 2、Veo 3、Nano Banana。 | [SAFE](https://agentskillshub.top/skill/Hikhakk/higgsfield-mcp-unified/) |
-| [ZeroLu/Ultimate-AI-Media-Generator-Skill](https://github.com/ZeroLu/Ultimate-AI-Media-Generator-Skill) | 103 | Codex 等的开源图片视频生成 skill，基于 CyberBara API，支持 Nano Banana、Sora 2、Seedance、Kling | [SAFE](https://agentskillshub.top/skill/ZeroLu/Ultimate-AI-Media-Generator-Skill/) |
+| [Hikhakk/higgsfield-mcp-unified](https://github.com/Hikhakk/higgsfield-mcp-unified) | 105 | Higgsfield MCP：85 个模型；webhooks、成本估算、Soul ID 训练；可选支持 Sora 2、Veo 3、Nano Banana。 | [SAFE](https://agentskillshub.top/skill/Hikhakk/higgsfield-mcp-unified/) |
+| [ZeroLu/Ultimate-AI-Media-Generator-Skill](https://github.com/ZeroLu/Ultimate-AI-Media-Generator-Skill) | 104 | Codex 等的开源图片视频生成 skill，基于 CyberBara API，支持 Nano Banana、Sora 2、Seedance、Kling | [SAFE](https://agentskillshub.top/skill/ZeroLu/Ultimate-AI-Media-Generator-Skill/) |
 | [shixinnt/codex-image-context-runtime](https://github.com/shixinnt/codex-image-context-runtime) | 97 | 用于在上下文范围内生成和检查图像的 Codex 插件与本地 MCP 运行时。 | [SAFE](https://agentskillshub.top/skill/shixinnt/codex-image-context-runtime/) |
 | [mituan-ai/PaperBanana-CN](https://github.com/mituan-ai/PaperBanana-CN) | 85 | 科学绘图工作台，支持独立的 VLM/图像连接、中文界面和统一尺寸控制。 | [SAFE](https://agentskillshub.top/skill/mituan-ai/PaperBanana-CN/) |
-| [guinacio/claude-image-gen](https://github.com/guinacio/claude-image-gen) | 79 | 使用 Google Gemini 或 OpenAI (gpt-image-2) 生成图像，通过 Skills 接入 Claude Code，或通过 MCP 接… | [SAFE](https://agentskillshub.top/skill/guinacio/claude-image-gen/) |
+| [guinacio/claude-image-gen](https://github.com/guinacio/claude-image-gen) | 80 | 使用 Google Gemini 或 OpenAI (gpt-image-2) 生成图像，通过 Skills 接入 Claude Code，或通过 MCP 接… | [SAFE](https://agentskillshub.top/skill/guinacio/claude-image-gen/) |
 | [apinetwork/piapi-mcp-server](https://github.com/apinetwork/piapi-mcp-server) | 76 | TS MCP服务接入PiAPI，支持Claude调用Midjourney、Flux、Kling、LumaLabs、Udio、Chrip、Trellis生成内容。 | [SAFE](https://agentskillshub.top/skill/apinetwork/piapi-mcp-server/) |
-| [Bria-AI/bria-skill](https://github.com/Bria-AI/bria-skill) | 74 | Bria AI 的 Claude Code skill：用 Fibo、RMBG-2.0 和 VGL 结构化提示词生成、编辑和转换图像 | [SAFE](https://agentskillshub.top/skill/Bria-AI/bria-skill/) |
+| [Bria-AI/bria-skill](https://github.com/Bria-AI/bria-skill) | 75 | Bria AI 的 Claude Code skill：用 Fibo、RMBG-2.0 和 VGL 结构化提示词生成、编辑和转换图像 | [SAFE](https://agentskillshub.top/skill/Bria-AI/bria-skill/) |
 | [lansespirit/image-gen-mcp](https://github.com/lansespirit/image-gen-mcp) | 69 | 集成 gpt-image-1 和 Gemini imagen4 模型的文生图 MCP 服务器 | [SAFE](https://agentskillshub.top/skill/lansespirit/image-gen-mcp/) |
-| [AndyShaman/gemini-webapi-mcp](https://github.com/AndyShaman/gemini-webapi-mcp) | 65 | Google Gemini 的 MCP server，通过浏览器 Cookie 生成、编辑图像和聊天，无需 API key。 | [SAFE](https://agentskillshub.top/skill/AndyShaman/gemini-webapi-mcp/) |
+| [AndyShaman/gemini-webapi-mcp](https://github.com/AndyShaman/gemini-webapi-mcp) | 66 | Google Gemini 的 MCP server，通过浏览器 Cookie 生成、编辑图像和聊天，无需 API key。 | [SAFE](https://agentskillshub.top/skill/AndyShaman/gemini-webapi-mcp/) |
 | [Syh1906/openai-compatible-imagegen](https://github.com/Syh1906/openai-compatible-imagegen) | 63 | 独立 Skill 和 Codex 插件，支持兼容 OpenAI 的图像生成、编辑、批处理、质量检查和局部画布编辑。 | [SAFE](https://agentskillshub.top/skill/Syh1906/openai-compatible-imagegen/) |
 | [utensils/mold](https://github.com/utensils/mold) | 57 | CLI原生本地AI图像与视频生成，面向用户、脚本、agent；Linux CUDA、macOS Metal、桌面、Web、iPhone、REST/SSE、MCP | [SAFE](https://agentskillshub.top/skill/utensils/mold/) |
 | [runapi-ai/mcp](https://github.com/runapi-ai/mcp) | 56 | RunAPI MCP 服务器，用于发现模型、查询价格、创建媒体任务和检查余额。 | [SAFE](https://agentskillshub.top/skill/runapi-ai/mcp/) |
@@ -95,10 +95,10 @@
 | [Cripacx/mediagen](https://github.com/Cripacx/mediagen) | 50 | Claude Code 等编程 agent 的 AI 图像视频生成 skill，整合 Gemini、OpenAI、Kie AI，支持 CLI、MCP serv… | [SAFE](https://agentskillshub.top/skill/Cripacx/mediagen/) |
 | [awesome-genmedia/skills](https://github.com/awesome-genmedia/skills) | 48 | AI 图像、视频、歌曲生成等技能 | [SAFE](https://agentskillshub.top/skill/awesome-genmedia/skills/) |
 | [jomeswang/agnes-ai-skill](https://github.com/jomeswang/agnes-ai-skill) | 47 | 用于文本、图像和视频 API 的 Agnes AI skill，支持持久化认证和 OpenAI 风格工作流 | [SAFE](https://agentskillshub.top/skill/jomeswang/agnes-ai-skill/) |
-| [awei84/antibanana-mcp](https://github.com/awei84/antibanana-mcp) | 41 | 用于 Google Antigravity 图像生成的 MCP server | [SAFE](https://agentskillshub.top/skill/awei84/antibanana-mcp/) |
+| [awei84/antibanana-mcp](https://github.com/awei84/antibanana-mcp) | 40 | 用于 Google Antigravity 图像生成的 MCP server | [SAFE](https://agentskillshub.top/skill/awei84/antibanana-mcp/) |
 | [liangdabiao/image-prompt-studio](https://github.com/liangdabiao/image-prompt-studio) | 40 | 图片风格复刻与生图；结构化 JSON 提示词生成与修改 skill，兼容 Nano Banana、GPT-Image，通过 apiz-cli 生图，由运行时… | [SAFE](https://agentskillshub.top/skill/liangdabiao/image-prompt-studio/) |
 | [spartanz51/imagegen-mcp](https://github.com/spartanz51/imagegen-mcp) | 37 | 用于 OpenAI 图像生成与编辑的 MCP 服务器：文生图、图生图（支持蒙版），无需额外插件。 | [SAFE](https://agentskillshub.top/skill/spartanz51/imagegen-mcp/) |
-| [LawrenceRiver/FigFox-Gen-skill](https://github.com/LawrenceRiver/FigFox-Gen-skill) | 34 | 科研论文图生成 Skill：参考论文图规范、配色控制、拓扑规划与图像生成，供 agent 使用。 | [SAFE](https://agentskillshub.top/skill/LawrenceRiver/FigFox-Gen-skill/) |
+| [LawrenceRiver/FigFox-Gen-skill](https://github.com/LawrenceRiver/FigFox-Gen-skill) | 35 | 科研论文图生成 Skill：参考论文图规范、配色控制、拓扑规划与图像生成，供 agent 使用。 | [SAFE](https://agentskillshub.top/skill/LawrenceRiver/FigFox-Gen-skill/) |
 | [SamurAIGPT/Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) | 34 | 面向 AI agent 的多模态媒体生成 skill（Claude Code、Cursor、Gemini CLI），由 muapi.ai 提供图像、视频和音频… | [SAFE](https://agentskillshub.top/skill/SamurAIGPT/Generative-Media-Skills/) |
 | [stevenjinlong/remote-imagegen](https://github.com/stevenjinlong/remote-imagegen) | 24 | Codex 独立生图 skill，支持自定义 OpenAI 兼容 base_url、文生图和参考图编辑，自动读取本地配置的 URL 和 API Key。 | [SAFE](https://agentskillshub.top/skill/stevenjinlong/remote-imagegen/) |
 | [wubin1836/ai-hive-agent-skills](https://github.com/wubin1836/ai-hive-agent-skills) | 23 | 680个Agent skill，含340个中文技能，覆盖AI模型、电商广告与AIGC工作流。 | [SAFE](https://agentskillshub.top/skill/wubin1836/ai-hive-agent-skills/) |
@@ -114,10 +114,10 @@
 | [xinvxueyuan/NovelAI-Image-MCP](https://github.com/xinvxueyuan/NovelAI-Image-MCP) | 12 | 用于将 NovelAI 图像生成集成到 AI agent 的 MCP server。 | [SAFE](https://agentskillshub.top/skill/xinvxueyuan/NovelAI-Image-MCP/) |
 | [keugenek/krea-mcp](https://github.com/keugenek/krea-mcp) | 11 | Krea.ai 的 MCP 服务：用 Flux、Hailuo、Runway、Kling、Ideogram、Imagen 生成 AI 图片和视频，支持 Clau… | [SAFE](https://agentskillshub.top/skill/keugenek/krea-mcp/) |
 | [wallfacer005-vip/jimeng-cli-skill](https://github.com/wallfacer005-vip/jimeng-cli-skill) | 10 | 用于通过 Dreamina CLI 生成 AI 图像和视频的 agent skill | [SAFE](https://agentskillshub.top/skill/wallfacer005-vip/jimeng-cli-skill/) |
-| [Dogwind221/img2img-studio](https://github.com/Dogwind221/img2img-studio) | 9 | 图生图：视觉门控路由、多供应商（DashScope/ChatGPT-web/OpenAI/Z.AI/Doubao/MiniMax）自动切换；电商套图、照片艺术 | [SAFE](https://agentskillshub.top/skill/Dogwind221/img2img-studio/) |
 | [ShalomObongo/codex-imagegen-mcp](https://github.com/ShalomObongo/codex-imagegen-mcp) | 9 | Codex 图像生成：MCP server + Agent Skill，一键安装，支持 20+ 工具；使用 ChatGPT 套餐，无需 API key。 | [SAFE](https://agentskillshub.top/skill/ShalomObongo/codex-imagegen-mcp/) |
 | [eugeniughelbur/gpt-image-cookbook](https://github.com/eugeniughelbur/gpt-image-cookbook) | 9 | AI 图像生成：提示词库、agentic skill 和 CLI，支持 OpenAI gpt-image-2、Google Imagen、Flux 等；含 C… | [SAFE](https://agentskillshub.top/skill/eugeniughelbur/gpt-image-cookbook/) |
 | [jkalasas/artifex-mcp](https://github.com/jkalasas/artifex-mcp) | 9 | 不绑定厂商的 AI 图像生成 MCP 服务器 | [SAFE](https://agentskillshub.top/skill/jkalasas/artifex-mcp/) |
+| [Dogwind221/img2img-studio](https://github.com/Dogwind221/img2img-studio) | 8 | 图生图：视觉门控路由、多供应商（DashScope/ChatGPT-web/OpenAI/Z.AI/Doubao/MiniMax）自动切换；电商套图、照片艺术 | [SAFE](https://agentskillshub.top/skill/Dogwind221/img2img-studio/) |
 | [xinyiqin/X2V-AI-Images-Videos-skill](https://github.com/xinyiqin/X2V-AI-Images-Videos-skill) | 8 | LightX2V 为 OpenClaw 提供云 API：图像生成（t2i/i2i）、视频（t2v/i2v/s2v）、TTS 和声音克隆 | [SAFE](https://agentskillshub.top/skill/xinyiqin/X2V-AI-Images-Videos-skill/) |
 | [zhouzhq2021/PaperBanana-AIMSLab](https://github.com/zhouzhq2021/PaperBanana-AIMSLab) | 8 | PaperBanana-AIMSLab是科研配图助手，基于PaperBanana，支持多 Agent规划、图像生成、评审迭代和image-to-image精修。 | [SAFE](https://agentskillshub.top/skill/zhouzhq2021/PaperBanana-AIMSLab/) |
 | [AtlasCloudAI/cli](https://github.com/AtlasCloudAI/cli) | 7 | 用 Atlas Cloud CLI 在终端、Claude Code 或 Codex 中生成 AI 图像、视频、语音和 3D 资产 | [SAFE](https://agentskillshub.top/skill/AtlasCloudAI/cli/) |
@@ -158,48 +158,48 @@
 | [helloianneo/ian-handdrawn-ppt](https://github.com/helloianneo/ian-handdrawn-ppt) | 1.5k | 中文手绘技术 PPT 整页图像生成 Skill，21:9 封面、16:9 正文配图，输出 PNG | [SAFE](https://agentskillshub.top/skill/helloianneo/ian-handdrawn-ppt/) |
 | [JuneYaooo/gpt-image2-ppt-skills](https://github.com/JuneYaooo/gpt-image2-ppt-skills) | 1.4k | 将任意 .pptx 复刻为自己的演示文稿：OpenAI gpt-image-2 模仿版式，你提供内容。含 10 套风格。Claude Code / OpenC… | [SAFE](https://agentskillshub.top/skill/JuneYaooo/gpt-image2-ppt-skills/) |
 | [Evianis/travel-photo-abstraction](https://github.com/Evianis/travel-photo-abstraction) | 799 | 源码可用的 Codex skill，用于将照片提炼为简约的编辑式抽象。 | [SAFE](https://agentskillshub.top/skill/Evianis/travel-photo-abstraction/) |
-| [kadevin/ilab-conjure](https://github.com/kadevin/ilab-conjure) | 722 | GPT-image-2 图片生成 WebUI，支持 Codex Responses、OpenAI 兼容 API、图库、Chip、提示词模板、并发任务和本地队列。 | [SAFE](https://agentskillshub.top/skill/kadevin/ilab-conjure/) |
+| [kadevin/ilab-conjure](https://github.com/kadevin/ilab-conjure) | 732 | GPT-image-2 图片生成 WebUI，支持 Codex Responses、OpenAI 兼容 API、图库、Chip、提示词模板、并发任务和本地队列。 | [SAFE](https://agentskillshub.top/skill/kadevin/ilab-conjure/) |
 | [dacnay816y62-hub/photo-revival](https://github.com/dacnay816y62-hub/photo-revival) | 607 | 将日常照片转为诗意白纸手绘插画的 Codex skill。 | [SAFE](https://agentskillshub.top/skill/dacnay816y62-hub/photo-revival/) |
-| [helloianneo/ian-xiaohei-scenes](https://github.com/helloianneo/ian-xiaohei-scenes) | 551 | Xiaohei 2.0 Codex skill：用于中文实物文章插图和长图故事图片 | [SAFE](https://agentskillshub.top/skill/helloianneo/ian-xiaohei-scenes/) |
-| [TaiT-tt/tait-crt-interface-skill](https://github.com/TaiT-tt/tait-crt-interface-skill) | 542 | TaiT-CRT-Interface-Skill 是 Codex 图像生成 skill，可将人像、照片或文字描述转换为早期 CRT 计算机界面风格的复古插画。 | [SAFE](https://agentskillshub.top/skill/TaiT-tt/tait-crt-interface-skill/) |
-| [oil-oil/draw-ui](https://github.com/oil-oil/draw-ui) | 542 | Claude Code skill：通过 ZenMux 使用 GPT Image 2 生成 UI 设计稿 | [SAFE](https://agentskillshub.top/skill/oil-oil/draw-ui/) |
+| [helloianneo/ian-xiaohei-scenes](https://github.com/helloianneo/ian-xiaohei-scenes) | 552 | Xiaohei 2.0 Codex skill：用于中文实物文章插图和长图故事图片 | [SAFE](https://agentskillshub.top/skill/helloianneo/ian-xiaohei-scenes/) |
+| [oil-oil/draw-ui](https://github.com/oil-oil/draw-ui) | 545 | Claude Code skill：通过 ZenMux 使用 GPT Image 2 生成 UI 设计稿 | [SAFE](https://agentskillshub.top/skill/oil-oil/draw-ui/) |
+| [TaiT-tt/tait-crt-interface-skill](https://github.com/TaiT-tt/tait-crt-interface-skill) | 541 | TaiT-CRT-Interface-Skill 是 Codex 图像生成 skill，可将人像、照片或文字描述转换为早期 CRT 计算机界面风格的复古插画。 | [SAFE](https://agentskillshub.top/skill/TaiT-tt/tait-crt-interface-skill/) |
 | [op7418/guizang-yingzao-skill](https://github.com/op7418/guizang-yingzao-skill) | 526 | Claude Code / Codex skill：用GPT Image将中国建筑、文化场所和旅行照片转为艺术指导海报 | [SAFE](https://agentskillshub.top/skill/op7418/guizang-yingzao-skill/) |
 | [buluslan/gpt-image2-ecommerce](https://github.com/buluslan/gpt-image2-ecommerce) | 441 | 电商产品图生成 skill：39种场景模板、GPT-Image-2/2.5（Flare/Sunburst）模型路由、活动一致性锁定、平台合规。 | [SAFE](https://agentskillshub.top/skill/buluslan/gpt-image2-ecommerce/) |
 | [UzenUPoZiTiV4ik/gpt-image-2-skill](https://github.com/UzenUPoZiTiV4ik/gpt-image-2-skill) | 439 | 生成逼真图像的通用 skill | [SAFE](https://agentskillshub.top/skill/UzenUPoZiTiV4ik/gpt-image-2-skill/) |
-| [leeguooooo/image-use](https://github.com/leeguooooo/image-use) | 414 | 使用 ChatGPT 订阅从命令行生成图像，无需 OPENAI_API_KEY、网关或守护进程。零依赖 Python CLI + AI-agent skill。 | [SAFE](https://agentskillshub.top/skill/leeguooooo/image-use/) |
-| [gongnyang/gongnyang-prompt-kit](https://github.com/gongnyang/gongnyang-prompt-kit) | 329 | 将模糊请求编译为 gpt-image-2 完整提示词的 Claude Code skill—禁止负面提示、结果导向描述、验证脚本、C1~C10 | [SAFE](https://agentskillshub.top/skill/gongnyang/gongnyang-prompt-kit/) |
+| [leeguooooo/image-use](https://github.com/leeguooooo/image-use) | 416 | 使用 ChatGPT 订阅从命令行生成图像，无需 OPENAI_API_KEY、网关或守护进程。零依赖 Python CLI + AI-agent skill。 | [SAFE](https://agentskillshub.top/skill/leeguooooo/image-use/) |
+| [gongnyang/gongnyang-prompt-kit](https://github.com/gongnyang/gongnyang-prompt-kit) | 330 | 将模糊请求编译为 gpt-image-2 完整提示词的 Claude Code skill—禁止负面提示、结果导向描述、验证脚本、C1~C10 | [SAFE](https://agentskillshub.top/skill/gongnyang/gongnyang-prompt-kit/) |
 | [xiaohuailabs/xiaohu-ip-studio](https://github.com/xiaohuailabs/xiaohu-ip-studio) | 304 | 开源中文配图 skill 与 IP 角色库：提取认知锚点、构造隐喻并反PPT自检，生成固定角色正文配图 | [SAFE](https://agentskillshub.top/skill/xiaohuailabs/xiaohu-ip-studio/) |
 | [dreiachse-cyber/image-cockpit-for-codex-workflows](https://github.com/dreiachse-cyber/image-cockpit-for-codex-workflows) | 296 | 用于 Codex imagegen 的本地图像生成、像素艺术、图像编辑、动画和精灵图工作流控制台。 | [SAFE](https://agentskillshub.top/skill/dreiachse-cyber/image-cockpit-for-codex-workflows/) |
-| [hypersocialinc/shots](https://github.com/hypersocialinc/shots) | 249 | Claude Code/Agent skill：用 GPT Image 2 制作可上传至 Apple 或 Google 的应用商店截图，需提供 App Sto… | [SAFE](https://agentskillshub.top/skill/hypersocialinc/shots/) |
-| [Sateezg/codex-bridge](https://github.com/Sateezg/codex-bridge) | 245 | 通过现有的 Codex CLI 登录，为 Claude Code 提供图像生成（gpt-image-2）和 GPT-5 子代理，无需 OpenAI API 密… | [SAFE](https://agentskillshub.top/skill/Sateezg/codex-bridge/) |
-| [JuneYaooo/xhs-writer-skill](https://github.com/JuneYaooo/xhs-writer-skill) | 190 | 小红书笔记生成器，基于 gpt-image-2，支持自然语言修改。 | [SAFE](https://agentskillshub.top/skill/JuneYaooo/xhs-writer-skill/) |
-| [chujianyun/awesome-gpt-image2-ppt-skills](https://github.com/chujianyun/awesome-gpt-image2-ppt-skills) | 190 | 基于 GPT Image 2 的 32 个配图 Skills，涵盖漫画、工程手稿、白板手绘、PPT 信息图、Notion 插画等风格，适用于 CodeX。 | [SAFE](https://agentskillshub.top/skill/chujianyun/awesome-gpt-image2-ppt-skills/) |
+| [hypersocialinc/shots](https://github.com/hypersocialinc/shots) | 250 | Claude Code/Agent skill：用 GPT Image 2 制作可上传至 Apple 或 Google 的应用商店截图，需提供 App Sto… | [SAFE](https://agentskillshub.top/skill/hypersocialinc/shots/) |
+| [Sateezg/codex-bridge](https://github.com/Sateezg/codex-bridge) | 244 | 通过现有的 Codex CLI 登录，为 Claude Code 提供图像生成（gpt-image-2）和 GPT-5 子代理，无需 OpenAI API 密… | [SAFE](https://agentskillshub.top/skill/Sateezg/codex-bridge/) |
+| [JuneYaooo/xhs-writer-skill](https://github.com/JuneYaooo/xhs-writer-skill) | 193 | 小红书笔记生成器，基于 gpt-image-2，支持自然语言修改。 | [SAFE](https://agentskillshub.top/skill/JuneYaooo/xhs-writer-skill/) |
+| [chujianyun/awesome-gpt-image2-ppt-skills](https://github.com/chujianyun/awesome-gpt-image2-ppt-skills) | 191 | 基于 GPT Image 2 的 32 个配图 Skills，涵盖漫画、工程手稿、白板手绘、PPT 信息图、Notion 插画等风格，适用于 CodeX。 | [SAFE](https://agentskillshub.top/skill/chujianyun/awesome-gpt-image2-ppt-skills/) |
 | [Cuimao777/eterna-image2image-skill](https://github.com/Cuimao777/eterna-image2image-skill) | 185 | 实验性双语 Codex skill，用于受 ETERNA 启发的 image2image 电影感色彩与构图。 | [SAFE](https://agentskillshub.top/skill/Cuimao777/eterna-image2image-skill/) |
 | [NomaDamas/god-tibo-imagen](https://github.com/NomaDamas/god-tibo-imagen) | 185 | 通过 Codex 订阅使用 GPT image 2.0 模型的 Python 和 Node 包 | [SAFE](https://agentskillshub.top/skill/NomaDamas/god-tibo-imagen/) |
-| [Vieeeeeee/wibi-style](https://github.com/Vieeeeeee/wibi-style) | 184 | 适用于 Codex 的 36 个可安装视觉设计 skill，含可复用 Python 工具和版本化软件包。将照片转为艺术作品。在线体验：style.abdc.o… | [SAFE](https://agentskillshub.top/skill/Vieeeeeee/wibi-style/) |
+| [Vieeeeeee/wibi-style](https://github.com/Vieeeeeee/wibi-style) | 185 | 适用于 Codex 的 36 个可安装视觉设计 skill，含可复用 Python 工具和版本化软件包。将照片转为艺术作品。在线体验：style.abdc.o… | [SAFE](https://agentskillshub.top/skill/Vieeeeeee/wibi-style/) |
 | [Xiangyu-CAS/codex-canvas](https://github.com/Xiangyu-CAS/codex-canvas) | 160 | Codex无限画布插件，支持图层分离和涂抹修改 | [SAFE](https://agentskillshub.top/skill/Xiangyu-CAS/codex-canvas/) |
+| [xianyu110/ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) | 156 | 电商出图 skill：Claude Code、Codex、Cursor；GPT Image 2.5（Flare/Sunburst）用于Amazon主图等电商素材 | [SAFE](https://agentskillshub.top/skill/xianyu110/ecommerce-image-skills/) |
 | [fengfengzhidao/codex-image2-skill](https://github.com/fengfengzhidao/codex-image2-skill) | 155 | 用于在 Codex 中生成图片的 skill | [SAFE](https://agentskillshub.top/skill/fengfengzhidao/codex-image2-skill/) |
-| [xianyu110/ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills) | 151 | 电商出图 skill：Claude Code、Codex、Cursor；GPT Image 2.5（Flare/Sunburst）用于Amazon主图等电商素材 | [SAFE](https://agentskillshub.top/skill/xianyu110/ecommerce-image-skills/) |
 | [Wangnov/gpt-image-2-skill](https://github.com/Wangnov/gpt-image-2-skill) | 146 | GPT Image 2 的 skill、CLI、Web 和 Desktop | [SAFE](https://agentskillshub.top/skill/Wangnov/gpt-image-2-skill/) |
 | [darkamenosa/codex-imagen](https://github.com/darkamenosa/codex-imagen) | 135 | 通过 ChatGPT/Codex OAuth 生成图像的 Codex/OpenClaw skill | [SAFE](https://agentskillshub.top/skill/darkamenosa/codex-imagen/) |
 | [dacnay816y62-hub/fantasy-dongfang-jianyuehaibao](https://github.com/dacnay816y62-hub/fantasy-dongfang-jianyuehaibao) | 126 | 东方文化编辑海报 v2 Codex skill：Image 2 出图、中文标题精炼、真实文化物证、A/B/C 测试 | [SAFE](https://agentskillshub.top/skill/dacnay816y62-hub/fantasy-dongfang-jianyuehaibao/) |
-| [actionow-ai/c2c_img](https://github.com/actionow-ai/c2c_img) | 121 | Claude Code 的图像生成工具，由本地 Codex（ChatGPT）image_gen 驱动，无需 API 密钥。 | [SAFE](https://agentskillshub.top/skill/actionow-ai/c2c_img/) |
-| [yuji-hatakeyama/opencode-gpt-imagegen](https://github.com/yuji-hatakeyama/opencode-gpt-imagegen) | 119 | OpenCode 插件：通过 ChatGPT 订阅或 OpenAI API 生成图像 | [SAFE](https://agentskillshub.top/skill/yuji-hatakeyama/opencode-gpt-imagegen/) |
+| [actionow-ai/c2c_img](https://github.com/actionow-ai/c2c_img) | 123 | Claude Code 的图像生成工具，由本地 Codex（ChatGPT）image_gen 驱动，无需 API 密钥。 | [SAFE](https://agentskillshub.top/skill/actionow-ai/c2c_img/) |
+| [yuji-hatakeyama/opencode-gpt-imagegen](https://github.com/yuji-hatakeyama/opencode-gpt-imagegen) | 122 | OpenCode 插件：通过 ChatGPT 订阅或 OpenAI API 生成图像 | [SAFE](https://agentskillshub.top/skill/yuji-hatakeyama/opencode-gpt-imagegen/) |
+| [FANzR-arch/Phil-design-skills](https://github.com/FANzR-arch/Phil-design-skills) | 111 | 为 gpt-image-2 编写的 19 套视觉风格 skill，将文章、主题、产品或视觉资产编译为完整提示词。 | [SAFE](https://agentskillshub.top/skill/FANzR-arch/Phil-design-skills/) |
 | [yc-duan/api-image](https://github.com/yc-duan/api-image) | 109 | 通过兼容 OpenAI 的提供商使用 API 生成图像的 Codex skill | [SAFE](https://agentskillshub.top/skill/yc-duan/api-image/) |
-| [FANzR-arch/Phil-design-skills](https://github.com/FANzR-arch/Phil-design-skills) | 108 | 为 gpt-image-2 编写的 19 套视觉风格 skill，将文章、主题、产品或视觉资产编译为完整提示词。 | [SAFE](https://agentskillshub.top/skill/FANzR-arch/Phil-design-skills/) |
-| [QIYU-JACKMAN/codexQIYU-image-workflow](https://github.com/QIYU-JACKMAN/codexQIYU-image-workflow) | 106 | 面向电商图片生产的 Codex 插件，提供八种工作流，支持 GPT Image 2 提示词优化、生成确认、逐图质检和失败续跑。 | [SAFE](https://agentskillshub.top/skill/QIYU-JACKMAN/codexQIYU-image-workflow/) |
+| [QIYU-JACKMAN/codexQIYU-image-workflow](https://github.com/QIYU-JACKMAN/codexQIYU-image-workflow) | 107 | 面向电商图片生产的 Codex 插件，提供八种工作流，支持 GPT Image 2 提示词优化、生成确认、逐图质检和失败续跑。 | [SAFE](https://agentskillshub.top/skill/QIYU-JACKMAN/codexQIYU-image-workflow/) |
 | [lownamlee/gpt-image-2-mcp](https://github.com/lownamlee/gpt-image-2-mcp) | 94 | 用于 ChatGPT 图像生成的本地 MCP 服务器。 | [SAFE](https://agentskillshub.top/skill/lownamlee/gpt-image-2-mcp/) |
 | [jiangmuran/claude-image](https://github.com/jiangmuran/claude-image) | 88 | 教 Claude Code/Codex 使用 GPT Image 2 的 skill 包：意图优先提示、精准编辑、并行批处理、视觉自检 | [SAFE](https://agentskillshub.top/skill/jiangmuran/claude-image/) |
+| [ericblue/visual-explainer-skill](https://github.com/ericblue/visual-explainer-skill) | 78 | Claude Code skill，将内容或 Mermaid 图表转换为白板草图、信息图和思维导图，使用 OpenAI 或 Gemini 图像生成。 | [CAUTION](https://agentskillshub.top/skill/ericblue/visual-explainer-skill/) |
+| [stevenjinlong/awesome-ppt-skills](https://github.com/stevenjinlong/awesome-ppt-skills) | 75 | 将提示词转换为由 gpt-image-2 生成的整页式 PPT 演示文稿 | [SAFE](https://agentskillshub.top/skill/stevenjinlong/awesome-ppt-skills/) |
 | [robonuggets/gpt-image-2-skill](https://github.com/robonuggets/gpt-image-2-skill) | 74 | Claude Code 的 GPT Image 2（ChatGPT Images 2.0）skill：文字排版、T2I与edit端点、Fal AI集成、结构化… | [SAFE](https://agentskillshub.top/skill/robonuggets/gpt-image-2-skill/) |
-| [ericblue/visual-explainer-skill](https://github.com/ericblue/visual-explainer-skill) | 73 | Claude Code skill，将内容或 Mermaid 图表转换为白板草图、信息图和思维导图，使用 OpenAI 或 Gemini 图像生成。 | [CAUTION](https://agentskillshub.top/skill/ericblue/visual-explainer-skill/) |
-| [stevenjinlong/awesome-ppt-skills](https://github.com/stevenjinlong/awesome-ppt-skills) | 73 | 将提示词转换为由 gpt-image-2 生成的整页式 PPT 演示文稿 | [SAFE](https://agentskillshub.top/skill/stevenjinlong/awesome-ppt-skills/) |
 | [nevertoday/xxd-panel-028](https://github.com/nevertoday/xxd-panel-028) | 72 | 将照片转换为静谧原色风格的等距纸质微缩模型，支持四种可组合输出模式。 | [SAFE](https://agentskillshub.top/skill/nevertoday/xxd-panel-028/) |
 | [ningzimu/codex-gpt-image](https://github.com/ningzimu/codex-gpt-image) | 71 | 通过 Codex OAuth 使用 gpt-image-2 的 OpenClaw/Claude Code SKILL.md，无需 OPENAI_API_KEY | [SAFE](https://agentskillshub.top/skill/ningzimu/codex-gpt-image/) |
 | [wjb127/codex-image](https://github.com/wjb127/codex-image) | 66 | 通过 Codex CLI OAuth 使用 gpt-image-2 生成 AI 图像的 Claude Code skill | [SAFE](https://agentskillshub.top/skill/wjb127/codex-image/) |
 | [EvoLinkAI/gpt-image-2-gen-skill](https://github.com/EvoLinkAI/gpt-image-2-gen-skill) | 56 | 适用于 OpenClaw、Claude Code、OpenCode 和 Cursor 的 GPT Image 2 AI 图像生成 skill，一键安装 | [*待评级*](https://agentskillshub.top/skill/EvoLinkAI/gpt-image-2-gen-skill/) |
 | [zhouwei713/gpt-image-2-prompting-skill](https://github.com/zhouwei713/gpt-image-2-prompting-skill) | 56 | GPT-Image-2 提示词 skill，含双语 README、结构化提示方法、模板和示例。 | [SAFE](https://agentskillshub.top/skill/zhouwei713/gpt-image-2-prompting-skill/) |
 | [KingGyuSuh/codex-image-in-cc](https://github.com/KingGyuSuh/codex-image-in-cc) | 47 | Claude Code 插件，将 Codex CLI 内置的 imagegen skill 提供为 /codex-image:* 斜杠命令。 | [SAFE](https://agentskillshub.top/skill/KingGyuSuh/codex-image-in-cc/) |
-| [See-Sol-Lab/Picxel](https://github.com/See-Sol-Lab/Picxel) | 43 | 将参考图转换为像素风游戏素材，面向独立游戏开发者 | [SAFE](https://agentskillshub.top/skill/See-Sol-Lab/Picxel/) |
+| [See-Sol-Lab/Picxel](https://github.com/See-Sol-Lab/Picxel) | 45 | 将参考图转换为像素风游戏素材，面向独立游戏开发者 | [SAFE](https://agentskillshub.top/skill/See-Sol-Lab/Picxel/) |
 | [Gayaya999/ecommerce-detail-page-generator](https://github.com/Gayaya999/ecommerce-detail-page-generator) | 41 | 具备策略感知的 Codex skill，将产品照片转为适配平台的电商详情页，支持模块化图像生成、确定性排版、切片、清单与校验。 | [SAFE](https://agentskillshub.top/skill/Gayaya999/ecommerce-detail-page-generator/) |
 | [james20141606/sci-figure-workflow](https://github.com/james20141606/sci-figure-workflow) | 41 | Claude Code Skill: AIGC 科研绘图 4 步工作流（GPT-image-2 × Gemini Vision × Nano Banana 2 × draw.io）— 把顶会论文配图从半天压缩到 10 分钟，产出可编辑 .drawio/.pptx/.svg | [SAFE](https://agentskillshub.top/skill/james20141606/sci-figure-workflow/) |
 | [wukongnotnull/image-inspirer](https://github.com/wukongnotnull/image-inspirer) | 41 | 灵感绘.skill：GPT-Image2 图片提示词案例库，涵盖13类创作参考。 | [SAFE](https://agentskillshub.top/skill/wukongnotnull/image-inspirer/) |
@@ -210,9 +210,9 @@
 | [norahe0304-art/30x-image](https://github.com/norahe0304-art/30x-image) | 32 | 根据品牌 DESIGN.md，使用 gpt-image-2 生成营销图像（广告素材、标志、幻灯片、轮播图），适用于 Codex / Claude Code 的… | [SAFE](https://agentskillshub.top/skill/norahe0304-art/30x-image/) |
 | [alchaincyf/huashu-gpt-image](https://github.com/alchaincyf/huashu-gpt-image) | 29 | GPT-image-2 prompt 工程方法论：用真实参考名替代形容词，默认使用中文短句。含单图 playbook、批量网格生成和失败模式树，跨 agent… | [SAFE](https://agentskillshub.top/skill/alchaincyf/huashu-gpt-image/) |
 | [liangdabiao/product-motion-gif](https://github.com/liangdabiao/product-motion-gif) | 29 | 本skill用 GPT-Image 2.5 根据产品照片生成并合成循环播放的 GIF。 | [SAFE](https://agentskillshub.top/skill/liangdabiao/product-motion-gif/) |
+| [ianlintner/ai-pixel-art-image-generation](https://github.com/ianlintner/ai-pixel-art-image-generation) | 26 | Claude Code skill：GPT-Image-2、Foundry、Gemini 游戏开发像素艺术、精灵图和 Tilemap 生成 | [SAFE](https://agentskillshub.top/skill/ianlintner/ai-pixel-art-image-generation/) |
 | [AlekseiUL/gpt-image-2-5-agent-kit](https://github.com/AlekseiUL/gpt-image-2-5-agent-kit) | 25 | GPT Image 2.5 Sunburst & Flare：agent生成、参考图/蒙版编辑；PNG/JPEG/WebP、dry-run、回执；实验Chat… | [SAFE](https://agentskillshub.top/skill/AlekseiUL/gpt-image-2-5-agent-kit/) |
-| [alchaincyf/huashu-slide-codex](https://github.com/alchaincyf/huashu-slide-codex) | 25 | Codex 专用 AI 视觉素材制作 skill：幻灯片、微信封面、Bilibili/YouTube 缩略图，使用内置 image_gen | [SAFE](https://agentskillshub.top/skill/alchaincyf/huashu-slide-codex/) |
-| [ianlintner/ai-pixel-art-image-generation](https://github.com/ianlintner/ai-pixel-art-image-generation) | 25 | Claude Code skill：GPT-Image-2、Foundry、Gemini 游戏开发像素艺术、精灵图和 Tilemap 生成 | [SAFE](https://agentskillshub.top/skill/ianlintner/ai-pixel-art-image-generation/) |
+| [alchaincyf/huashu-slide-codex](https://github.com/alchaincyf/huashu-slide-codex) | 25 | Codex 专用 AI 视觉素材制作 skill：幻灯片、微信封面及 Bilibili/YouTube 缩略图，使用内置 image_gen | [SAFE](https://agentskillshub.top/skill/alchaincyf/huashu-slide-codex/) |
 | [JunSeo99/claude-skill-codex-imagegen](https://github.com/JunSeo99/claude-skill-codex-imagegen) | 22 | 使用 Codex 订阅在 Claude Code 中生成、比较和编辑图像。后台任务、并行草稿和精简上下文。无需图像 API 费用。 | [SAFE](https://agentskillshub.top/skill/JunSeo99/claude-skill-codex-imagegen/) |
 | [2023Anita/scientific-visual-skills](https://github.com/2023Anita/scientific-visual-skills) | 21 | 使用 ChatGPT 图像生成科学信息图、研究封面图和出版级论文图表的 Codex skills | [SAFE](https://agentskillshub.top/skill/2023Anita/scientific-visual-skills/) |
 | [dshark3y/gpt-image-2-skill](https://github.com/dshark3y/gpt-image-2-skill) | 19 | 使用 OpenAI 的 gpt-image-2 生成和编辑图像的 Claude Code skill | [SAFE](https://agentskillshub.top/skill/dshark3y/gpt-image-2-skill/) |
@@ -225,8 +225,8 @@
 | [gpt-img-2/gpt-image-2-ecommerce-skill](https://github.com/gpt-img-2/gpt-image-2-ecommerce-skill) | 13 | GPT Image 2 电商 skill：商品主体不变的主图、白底商品图、PDP 提示词与 QA，电商商品图 Agent 工作流 | [SAFE](https://agentskillshub.top/skill/gpt-img-2/gpt-image-2-ecommerce-skill/) |
 | [huysh3/sub2api-gpt-image-2](https://github.com/huysh3/sub2api-gpt-image-2) | 13 | 解决 Codex sub2api 后无法生图的问题 | [SAFE](https://agentskillshub.top/skill/huysh3/sub2api-gpt-image-2/) |
 | [fengyunzaidushi/sub2api-4k-image-generator-ts](https://github.com/fengyunzaidushi/sub2api-4k-image-generator-ts) | 12 | Codex skill/TypeScript CLI：自托管sub2api OpenAI兼容4K图像，支持流式、SSE、局部捕获、Cloudflare 524… | [SAFE](https://agentskillshub.top/skill/fengyunzaidushi/sub2api-4k-image-generator-ts/) |
+| [obie/slopcore](https://github.com/obie/slopcore) | 10 | 用于将成品歌曲制作成 AI 音乐视频的 Claude Code skill 和工具包：Midjourney 静帧、Seedance 片段，以及按节拍用代码绘制… | [SAFE](https://agentskillshub.top/skill/obie/slopcore/) |
 | [bushibohai/creating-social-media-visuals](https://github.com/bushibohai/creating-social-media-visuals) | 9 | 用于公众号、小红书、抖音等自媒体封面和信息图生成的 Skill | [SAFE](https://agentskillshub.top/skill/bushibohai/creating-social-media-visuals/) |
-| [obie/slopcore](https://github.com/obie/slopcore) | 9 | 用于将成品歌曲制作成 AI 音乐视频的 Claude Code skill 和工具包：Midjourney 静帧、Seedance 片段，以及按节拍用代码绘制… | [SAFE](https://agentskillshub.top/skill/obie/slopcore/) |
 | [papperrollinggery/jingzao-image-forge](https://github.com/papperrollinggery/jingzao-image-forge) | 9 | 镜造 Image Forge：Codex Skill，用于参考图提炼、角色一致性与 AI 图像生成，保留发型、表情、姿势、体型、服装和摄影风格。 | [SAFE](https://agentskillshub.top/skill/papperrollinggery/jingzao-image-forge/) |
 | [qwwiwi/codex-gpt-image-2-subscription](https://github.com/qwwiwi/codex-gpt-image-2-subscription) | 9 | 在 ChatGPT/Codex 订阅中使用 gpt-image-2 生成图片，无需 API key，支持参考图。Claude Code skill。 | [SAFE](https://agentskillshub.top/skill/qwwiwi/codex-gpt-image-2-subscription/) |
 | [zvensmoluya/zven-imagegen](https://github.com/zvensmoluya/zven-imagegen) | 9 | 面向 Codex 的图像生成 skill，支持 base_url、key 和 stream，降低长连接超时断连概率。 | [SAFE](https://agentskillshub.top/skill/zvensmoluya/zven-imagegen/) |
@@ -249,6 +249,10 @@
 
 [在在线页面打开这一类,按星数排序 →](https://agentskillshub.top/best/image-generation/#type-nano_banana)
 
+<table><tr>
+<td align="center" valign="top"><a href="https://github.com/frannkurt/nano-banana-mcp"><img src="assets/previews/frannkurt__nano-banana-mcp.jpg" width="260" alt="frannkurt/nano-banana-mcp"></a><br><sub><a href="https://github.com/frannkurt/nano-banana-mcp">frannkurt/nano-banana-mcp</a></sub></td>
+</tr></table>
+
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
 | [op7418/NanoBanana-PPT-Skills](https://github.com/op7418/NanoBanana-PPT-Skills) | 3.3k | NanoBanana PPT Skills：用 AI 生成 PPT 图片和视频，支持转场和交互式播放 | [CAUTION](https://agentskillshub.top/skill/op7418/NanoBanana-PPT-Skills/) |
@@ -265,9 +269,10 @@
 | [feedtailor/ccskill-nanobanana](https://github.com/feedtailor/ccskill-nanobanana) | 29 | 使用 Nano Banana Pro 生成 AI 图像的 Claude Code skill | [SAFE](https://agentskillshub.top/skill/feedtailor/ccskill-nanobanana/) |
 | [Ibrahim-3d/nano-banana-claude-plugin](https://github.com/Ibrahim-3d/nano-banana-claude-plugin) | 14 | Nano Banana：Claude Code 的 AI 图像生成插件，支持文生图、编辑、风格迁移、局部重绘、4K 和搜索增强等 13 种模式，由 Googl… | [SAFE](https://agentskillshub.top/skill/Ibrahim-3d/nano-banana-claude-plugin/) |
 | [nikships/ultimate-image-gen-mcp](https://github.com/nikships/ultimate-image-gen-mcp) | 14 | Gemini 3.1 Flash Image MCP 服务器，支持 4K 生成、Google Search grounding、最多 14 张参考图和 thi… | [SAFE](https://agentskillshub.top/skill/nikships/ultimate-image-gen-mcp/) |
-| [karem505/character-animation-skill](https://github.com/karem505/character-animation-skill) | 13 | 将任意角色图像转换为循环动画精灵（动态 SVG、WebP 和 GIF），使用 Google 的 Nano Banana 2（gemini-3.1-flash-… | [SAFE](https://agentskillshub.top/skill/karem505/character-animation-skill/) |
 | [v587d/nano-banana](https://github.com/v587d/nano-banana) | 13 | NanoBanana——面向 AI agent 的 Gemini 图像生成 skill | [SAFE](https://agentskillshub.top/skill/v587d/nano-banana/) |
 | [xj-bear/NanoBanana-PPT-Skills](https://github.com/xj-bear/NanoBanana-PPT-Skills) | 13 | NanoBanana PPT Skills - 支持 Veo 的 AI PPT 生成器 | [CAUTION](https://agentskillshub.top/skill/xj-bear/NanoBanana-PPT-Skills/) |
+| [karem505/character-animation-skill](https://github.com/karem505/character-animation-skill) | 12 | 将任意角色图像转换为循环动画精灵（动态 SVG、WebP 和 GIF），使用 Google 的 Nano Banana 2（gemini-3.1-flash-… | [SAFE](https://agentskillshub.top/skill/karem505/character-animation-skill/) |
+| [LunaAI519/motion-skill](https://github.com/LunaAI519/motion-skill) | 9 | Claude Code skill：参考图→复古剪贴报风动画短视频（Nano Banana关键帧+Kling图生视频），含版权自检 | [SAFE](https://agentskillshub.top/skill/LunaAI519/motion-skill/) |
 | [skorfmann/nanobanana](https://github.com/skorfmann/nanobanana) | 8 | 基于 Google Gemini API 的轻量级 AI 图像生成 CLI，支持文生图、图像编辑和多图合成，适用于 Claude Code 等编程 agent。 | [SAFE](https://agentskillshub.top/skill/skorfmann/nanobanana/) |
 | [thangphistudent/nano-banana-2-promptor-skill](https://github.com/thangphistudent/nano-banana-2-promptor-skill) | 8 | 用于电商、营销和按需印刷设计，生成优化的 Nano Banana 2（Gemini 3.1）图像提示词的 Claude Code skill | [SAFE](https://agentskillshub.top/skill/thangphistudent/nano-banana-2-promptor-skill/) |
 | [frannkurt/nano-banana-mcp](https://github.com/frannkurt/nano-banana-mcp) | 7 | AI 图像生成 MCP 服务器：无需 API key 或付费，使用自己的 Google 账号通过 Google Flow 生成 Nano Banana 图像，… | [SAFE](https://agentskillshub.top/skill/frannkurt/nano-banana-mcp/) |
@@ -284,15 +289,16 @@
 
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
-| [twwch/comfyui-workflow-skill](https://github.com/twwch/comfyui-workflow-skill) | 446 | 自然语言转ComfyUI工作流JSON，含34个模板、360+节点，自动下载模型；支持文/图生图/视频、音频及3D生成和LLM集成，可作agent skill | [SAFE](https://agentskillshub.top/skill/twwch/comfyui-workflow-skill/) |
+| [twwch/comfyui-workflow-skill](https://github.com/twwch/comfyui-workflow-skill) | 449 | 自然语言转ComfyUI工作流JSON，含34个模板、360+节点，自动下载模型；支持文/图生图/视频、音频及3D生成和LLM集成，可作agent skill | [SAFE](https://agentskillshub.top/skill/twwch/comfyui-workflow-skill/) |
 | [HuangYuChuh/ComfyUI_Skills_OpenClaw](https://github.com/HuangYuChuh/ComfyUI_Skills_OpenClaw) | 421 | 面向 OpenClaw、Hermes Agent、Codex 和 Claude Code 的 Agent 友好型 ComfyUI 工作流 skill，可配合官… | [SAFE](https://agentskillshub.top/skill/HuangYuChuh/ComfyUI_Skills_OpenClaw/) |
-| [joenorton/comfyui-mcp-server](https://github.com/joenorton/comfyui-mcp-server) | 410 | 用于本地 ComfyUI 的轻量级 Python MCP 服务器 | [SAFE](https://agentskillshub.top/skill/joenorton/comfyui-mcp-server/) |
+| [joenorton/comfyui-mcp-server](https://github.com/joenorton/comfyui-mcp-server) | 411 | 用于本地 ComfyUI 的轻量级 Python MCP 服务器 | [SAFE](https://agentskillshub.top/skill/joenorton/comfyui-mcp-server/) |
 | [six-nut/PocketMen-with-you](https://github.com/six-nut/PocketMen-with-you) | 294 | 用2张以上照片和本地开放权重神经编辑创建高保真 Codex 伴侣，无需 OpenAI API 密钥。 | [SAFE](https://agentskillshub.top/skill/six-nut/PocketMen-with-you/) |
-| [calesthio/generative-media-skills](https://github.com/calesthio/generative-media-skills) | 230 | 面向 AI coding assistants 的研究型 agent skills 与工具，支持图像、视频、音频、语音及生成媒体制作。 | [SAFE](https://agentskillshub.top/skill/calesthio/generative-media-skills/) |
-| [black-forest-labs/skills](https://github.com/black-forest-labs/skills) | 136 | Black Forest Labs 的 FLUX 图像和视频生成 skill，含提示词指南及 API 集成模式，适用于 Claude Code、Codex 和… | [SAFE](https://agentskillshub.top/skill/black-forest-labs/skills/) |
+| [calesthio/generative-media-skills](https://github.com/calesthio/generative-media-skills) | 236 | 面向 AI coding assistants 的研究型 agent skills 与工具，支持图像、视频、音频、语音及生成媒体制作。 | [SAFE](https://agentskillshub.top/skill/calesthio/generative-media-skills/) |
+| [black-forest-labs/skills](https://github.com/black-forest-labs/skills) | 137 | Black Forest Labs 的 FLUX 图像和视频生成 skill，含提示词指南及 API 集成模式，适用于 Claude Code、Codex 和… | [SAFE](https://agentskillshub.top/skill/black-forest-labs/skills/) |
+| [FireTable/comfy-colab-kit](https://github.com/FireTable/comfy-colab-kit) | 121 | 基于零信任访问，在临时 Google Colab 虚拟机上运行 ComfyUI 的零GPU空闲网关 | [SAFE](https://agentskillshub.top/skill/FireTable/comfy-colab-kit/) |
 | [MieMieeeee/comfyui-agent-skill](https://github.com/MieMieeeee/comfyui-agent-skill) | 119 | 让 agent 通过本仓库 CLI 在本地 ComfyUI 服务器运行已注册工作流，返回结构化 JSON。 | [SAFE](https://agentskillshub.top/skill/MieMieeeee/comfyui-agent-skill/) |
 | [lisamsung/agent-meme-forge](https://github.com/lisamsung/agent-meme-forge) | 99 | Codex skill将一张图片或文字概念转为适合微信发送的中文表情包。4个关键姿势→16帧，不使用模型绘制文字。 | [SAFE](https://agentskillshub.top/skill/lisamsung/agent-meme-forge/) |
-| [MCKRUZ/ComfyUI-Expert](https://github.com/MCKRUZ/ComfyUI-Expert) | 93 | 面向 ComfyUI 视频制作的会话级 Claude Code agent，含12项专用skill，涵盖图像生成、视频、声音克隆、LoRA训练和发布 | [SAFE](https://agentskillshub.top/skill/MCKRUZ/ComfyUI-Expert/) |
+| [MCKRUZ/ComfyUI-Expert](https://github.com/MCKRUZ/ComfyUI-Expert) | 94 | 面向 ComfyUI 视频制作的会话级 Claude Code agent，含12项专用skill，涵盖图像生成、视频、声音克隆、LoRA训练和发布 | [SAFE](https://agentskillshub.top/skill/MCKRUZ/ComfyUI-Expert/) |
 | [swping999/scene-card-studio](https://github.com/swping999/scene-card-studio) | 85 | 用 AI 将个人照片转化为结构化、可编辑的视觉叙事。 | [SAFE](https://agentskillshub.top/skill/swping999/scene-card-studio/) |
 | [MushroomFleet/DJZ-Nodes](https://github.com/MushroomFleet/DJZ-Nodes) | 81 | ComfyUI 自定义节点：视频特效、批处理、提示词、图像处理与自动化工具 | [SAFE](https://agentskillshub.top/skill/MushroomFleet/DJZ-Nodes/) |
 | [shengjidaguai-china/multi-style-image-generator](https://github.com/shengjidaguai-china/multi-style-image-generator) | 43 | 带有游戏风格和钩针风格模板的 Codex skill，支持2D、360°全景、空间深度、彩色点云和视频工作流。 | [CAUTION](https://agentskillshub.top/skill/shengjidaguai-china/multi-style-image-generator/) |
@@ -313,9 +319,9 @@
 
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
+| [GabrieleLozupone/kokon](https://github.com/GabrieleLozupone/kokon) | 317 | 类似 Nano Banana，在本地用文字描述修改照片；Kokon自动配置Qwen-Image 2.1，支持Windows、Mac、Linux及MCP ser… | [SAFE](https://agentskillshub.top/skill/GabrieleLozupone/kokon/) |
 | [ybuild-ai/ai-game-art-pipeline-skill](https://github.com/ybuild-ai/ai-game-art-pipeline-skill) | 304 | Y Build 的 agent skill：将 AI 图像和视频转为可玩的游戏美术资产 | [SAFE](https://agentskillshub.top/skill/ybuild-ai/ai-game-art-pipeline-skill/) |
-| [GabrieleLozupone/kokon](https://github.com/GabrieleLozupone/kokon) | 271 | 类似 Nano Banana，在本地用文字描述修改照片；Kokon自动配置Qwen-Image 2.1，支持Windows、Mac、Linux及MCP ser… | [SAFE](https://agentskillshub.top/skill/GabrieleLozupone/kokon/) |
-| [DenRakEiw/scumble](https://github.com/DenRakEiw/scumble) | 163 | 免费开源AI局部重绘：FLUX 3 Image、FLUX.2、GPT Image、Nano Banana、Seedream、Qwen；图层、PSD、MCP。 | [SAFE](https://agentskillshub.top/skill/DenRakEiw/scumble/) |
+| [DenRakEiw/scumble](https://github.com/DenRakEiw/scumble) | 171 | 免费开源AI局部重绘：FLUX 3 Image、FLUX.2、GPT Image、Nano Banana、Seedream、Qwen；图层、PSD、MCP。 | [SAFE](https://agentskillshub.top/skill/DenRakEiw/scumble/) |
 | [AKRTR465/GPT-upscale-skills](https://github.com/AKRTR465/GPT-upscale-skills) | 21 | 基于GPT-6-astra和gpt-image-2.5的图像放大工作流skill | [SAFE](https://agentskillshub.top/skill/AKRTR465/GPT-upscale-skills/) |
 | [beatra-ai/ai-image-realism-skill](https://github.com/beatra-ai/ai-image-realism-skill) | 5 | Claude Code、Cursor、Codex、Windsurf、Cline、OpenClaw的AI图像skill：修复塑料皮肤、畸形手脸、重复纹理和光照问题 | [SAFE](https://agentskillshub.top/skill/beatra-ai/ai-image-realism-skill/) |
 
@@ -326,18 +332,18 @@
 
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
-| [s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill) | 6.4k | 用于制作简洁、圆润、轻微新拟物风格 IP 吉祥物标志的 skill。 | [SAFE](https://agentskillshub.top/skill/s1dashu/ip-as-logo-skill/) |
+| [s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill) | 6.5k | 用于制作简洁、圆润、轻微新拟物风格 IP 吉祥物标志的 skill。 | [SAFE](https://agentskillshub.top/skill/s1dashu/ip-as-logo-skill/) |
 | [yanliudesign/mono-color-skill](https://github.com/yanliudesign/mono-color-skill) | 3.6k | 单色编辑印刷图像 skill——暖色纸张、半色调摄影、灵活留白与克制排版。 | [SAFE](https://agentskillshub.top/skill/yanliudesign/mono-color-skill/) |
 | [threerocks/hand-drawn-styles](https://github.com/threerocks/hand-drawn-styles) | 2.6k | Claude Code skill：将内容转为可复制的生图提示词，内置儿童涂色、极简线条、蜡笔童涂、吉卜力、小豆人涂鸦5种画风。 | [SAFE](https://agentskillshub.top/skill/threerocks/hand-drawn-styles/) |
 | [YouMind-OpenLab/ai-image-prompts-skill](https://github.com/YouMind-OpenLab/ai-image-prompts-skill) | 1.4k | AI图像提示词：10,000+条，支持 Nano Banana Pro、Nano Banana 2、Seedream 5.0、GPT Image 1.5 等。 | [SAFE](https://agentskillshub.top/skill/YouMind-OpenLab/ai-image-prompts-skill/) |
 | [op7418/guizang-material-illustration](https://github.com/op7418/guizang-material-illustration) | 1.2k | 归藏的材质插画 skill：生成文字说明图、美化图表并辅助参考配图。 | [SAFE](https://agentskillshub.top/skill/op7418/guizang-material-illustration/) |
-| [izscc/cc2image](https://github.com/izscc/cc2image) | 192 | Codex 中文内容交互式生图 Skill：认知锚点拆图，49套内容风格、8套Logo/图标模式，支持封面、配图、系列主视觉和批量提示词。 | [SAFE](https://agentskillshub.top/skill/izscc/cc2image/) |
+| [izscc/cc2image](https://github.com/izscc/cc2image) | 193 | Codex 中文内容交互式生图 Skill：认知锚点拆图，49套内容风格、8套Logo/图标模式，支持封面、配图、系列主视觉和批量提示词。 | [SAFE](https://agentskillshub.top/skill/izscc/cc2image/) |
 | [SpaceZephyr/design-buddy](https://github.com/SpaceZephyr/design-buddy) | 188 | Design Buddy：用于品牌设计系统、GPT-image-2 图像、图表、信息图、Logo、幻灯片、微信排版和社交图片的视觉制作 Agent Skills | [SAFE](https://agentskillshub.top/skill/SpaceZephyr/design-buddy/) |
 | [dacnay816y62-hub/fantasy-qiqiguaiguai-skill](https://github.com/dacnay816y62-hub/fantasy-qiqiguaiguai-skill) | 125 | FANTASY-qiqiguaiguai Codex skill：趣味编辑类社交帖、3:4海报、拼贴、街拍、宠物、旅行和中文排版。 | [SAFE](https://agentskillshub.top/skill/dacnay816y62-hub/fantasy-qiqiguaiguai-skill/) |
 | [NimaChu/xhs-imagen](https://github.com/NimaChu/xhs-imagen) | 120 | 用于小红书科普图片内容创作的 skill | [SAFE](https://agentskillshub.top/skill/NimaChu/xhs-imagen/) |
 | [jiahuiqu17/paper-signal](https://github.com/jiahuiqu17/paper-signal) | 109 | 面向 Agent Skills 的主体感极简 zine 图像制作：艺术指导、生成、系列、证据与真实位图质检。 | [SAFE](https://agentskillshub.top/skill/jiahuiqu17/paper-signal/) |
 | [oil-oil/oil-visual](https://github.com/oil-oil/oil-visual) | 106 | 制作统一漫画墨线风格的解释图和透明角色插图，用于概念、流程、比较及文章配图。 | [SAFE](https://agentskillshub.top/skill/oil-oil/oil-visual/) |
-| [BIAsia/voxel-icon](https://github.com/BIAsia/voxel-icon) | 102 | Voxel Icon — 30 个 PNG 图标和一个独立 Codex skill，适用于低密度等距体素艺术 | [SAFE](https://agentskillshub.top/skill/BIAsia/voxel-icon/) |
+| [BIAsia/voxel-icon](https://github.com/BIAsia/voxel-icon) | 103 | Voxel Icon — 30 个 PNG 图标和一个独立 Codex skill，适用于低密度等距体素艺术 | [SAFE](https://agentskillshub.top/skill/BIAsia/voxel-icon/) |
 | [freestylefly/xiaohongshu-skills](https://github.com/freestylefly/xiaohongshu-skills) | 98 | 小红书 skill：根据用户主题生成封面图，使用 Nano Banana Pro 生图。 | [SAFE](https://agentskillshub.top/skill/freestylefly/xiaohongshu-skills/) |
 | [CaliCastle/skills](https://github.com/CaliCastle/skills) | 97 | Cali Castle 的 Agent Skills 集合 | [SAFE](https://agentskillshub.top/skill/CaliCastle/skills/) |
 | [moonlin1213/muted-zine-poster-v01](https://github.com/moonlin1213/muted-zine-poster-v01) | 90 | 克制、诗意的纸张海报风图像生成 Agent Skill | [SAFE](https://agentskillshub.top/skill/moonlin1213/muted-zine-poster-v01/) |
@@ -345,7 +351,7 @@
 | [JKc66/custom-icons-skill](https://github.com/JKc66/custom-icons-skill) | 41 | 使用支持图像生成的 IDE 或扩展创建自定义图标的 skill | [SAFE](https://agentskillshub.top/skill/JKc66/custom-icons-skill/) |
 | [Beatatata/ip-character-designer](https://github.com/Beatatata/ip-character-designer) | 24 | 自媒体 IP 配图生成器：10种画风、双版本输出、中文提示词，Cola/Claude Skill，使用 Dreamina | [SAFE](https://agentskillshub.top/skill/Beatatata/ip-character-designer/) |
 | [aehyok/generate-article-cover-image](https://github.com/aehyok/generate-article-cover-image) | 16 | 使用 Codex + GPT Image 2 根据文章内容生成 Anthropic 极简风格封面图 | [SAFE](https://agentskillshub.top/skill/aehyok/generate-article-cover-image/) |
-| [beatra-ai/ai-logo-maker-skill](https://github.com/beatra-ai/ai-logo-maker-skill) | 9 | Claude Code、Codex 和 OpenClaw 的 AI 标志生成 agent skill：将品牌名、行业或参考图转为标志概念、品牌标识和应用图标，… | [SAFE](https://agentskillshub.top/skill/beatra-ai/ai-logo-maker-skill/) |
+| [beatra-ai/ai-logo-maker-skill](https://github.com/beatra-ai/ai-logo-maker-skill) | 11 | Claude Code、Codex 和 OpenClaw 的 AI 标志生成 agent skill：将品牌名、行业或参考图转为标志概念、品牌标识和应用图标，… | [SAFE](https://agentskillshub.top/skill/beatra-ai/ai-logo-maker-skill/) |
 | [chiyolyn/bold-contour-ink-portrait](https://github.com/chiyolyn/bold-contour-ink-portrait) | 9 | 将插画角色转为纯白背景、线条有力且留白充足的黑墨人像。 | [SAFE](https://agentskillshub.top/skill/chiyolyn/bold-contour-ink-portrait/) |
 | [sammyteng/illustration-studio](https://github.com/sammyteng/illustration-studio) | 5 | 内容配图工作室：19套插画风格Agent Skill，理解文章、选择风格并生成提示词，支持gpt-image-2与Gemini Nano Banana。 | [SAFE](https://agentskillshub.top/skill/sammyteng/illustration-studio/) |
 
@@ -363,4 +369,4 @@
 
 ---
 
-机器可读版本:[`data/skills.json`](data/skills.json)。生成于 2026-11-05。
+机器可读版本:[`data/skills.json`](data/skills.json)。生成于 2026-11-08。

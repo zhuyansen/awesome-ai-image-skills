@@ -9,6 +9,16 @@
   "file": "AtlasCloudAI__cli.gif",
   "still": "AtlasCloudAI__cli.jpg"
  },
+ "FireTable/comfy-colab-kit": {
+  "repo": "FireTable/comfy-colab-kit",
+  "url": "https://raw.githubusercontent.com/FireTable/comfy-colab-kit/HEAD/screenshots/agent-img2vid.gif",
+  "alt": "AI agent video generation session",
+  "score": 2.4,
+  "type": "image/gif",
+  "bytes": 3183315,
+  "file": "FireTable__comfy-colab-kit.gif",
+  "still": "FireTable__comfy-colab-kit.jpg"
+ },
  "JuneLearn/dsh-image2-draw": {
   "repo": "JuneLearn/dsh-image2-draw",
   "url": "https://raw.githubusercontent.com/JuneLearn/dsh-image2-draw/HEAD/assets/image2-result-card.png",
@@ -38,6 +48,16 @@
   "bytes": 367558,
   "file": "KDB-Wind__gpt-image-2-studio.jpg",
   "still": "KDB-Wind__gpt-image-2-studio.jpg"
+ },
+ "LunaAI519/motion-skill": {
+  "repo": "LunaAI519/motion-skill",
+  "url": "https://raw.githubusercontent.com/LunaAI519/motion-skill/HEAD/assets/demo-motion.gif",
+  "alt": "效果演示",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 4397613,
+  "file": "LunaAI519__motion-skill.gif",
+  "still": "LunaAI519__motion-skill.jpg"
  },
  "PUSHINGSQUARES/pushing-creation": {
   "repo": "PUSHINGSQUARES/pushing-creation",
